@@ -10,23 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1333377599, guid: ba80931603c2dbc40ab113c533efa2ed, type: 3}
-  m_Name: carrot
+  m_Name: can_milk
   m_EditorClassIdentifier: 
   Icon:
-    path: Entities/Consumable/Carrot
-  m_Localization: consumable.carrot
+    path: Entities/Consumable/Can_Milk
+  m_Localization: consumable.can_milk
   Takeable: 1
-  Cost: 15
-  Weight: 185
+  Cost: 75
+  Weight: 380
   Collectable: 1
   Modifiers: []
   _effects:
-  - path: Entities/Effect/Carrot
+  - path: entities/effect/can_milk
   canUseInBattle: 0
   waste:
-    path: 
+    path: entities/item/stew_empty
   useSounds:
-  - path: Sounds/SFX/Misc/Eating/eating
+  - path: Sounds/SFX/Consumables/drinking
   UseAP: 2
   UseDistance: 1
   Perks: 0

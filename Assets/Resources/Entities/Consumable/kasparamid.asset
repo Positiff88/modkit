@@ -10,23 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1333377599, guid: ba80931603c2dbc40ab113c533efa2ed, type: 3}
-  m_Name: carrot
+  m_Name: kasparamid
   m_EditorClassIdentifier: 
   Icon:
-    path: Entities/Consumable/Carrot
-  m_Localization: consumable.carrot
+    path: Entities/Consumable/Kasparamid
+  m_Localization: consumable.kasparamid
   Takeable: 1
-  Cost: 15
-  Weight: 185
+  Cost: 20
+  Weight: 27
   Collectable: 1
   Modifiers: []
   _effects:
-  - path: Entities/Effect/Carrot
-  canUseInBattle: 0
+  - path: entities/effect/kasparamid
+  - path: entities/effect/kasparamid_side
+  canUseInBattle: 1
   waste:
     path: 
   useSounds:
-  - path: Sounds/SFX/Misc/Eating/eating
+  - path: Sounds/SFX/Consumables/takePill
   UseAP: 2
   UseDistance: 1
   Perks: 0
