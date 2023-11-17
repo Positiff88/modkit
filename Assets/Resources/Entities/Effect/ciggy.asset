@@ -24,10 +24,15 @@ MonoBehaviour:
     _durationMode: 0
     _delay: 0
     _delayMode: 0
-  - _type: 5
-    _value: 1
-    _duration: 10
-    _durationMode: 0
+  - _type: 3
+    _value: -1
+    _duration: 6
+    _durationMode: 1
     _delay: 0
     _delayMode: 0
-  _applyers: []
+  _applyers:
+  - _type: 1
+    _delay: 0
+    _delayMode: 0
+    _valueType: 0
+    _value: ffffffff

@@ -14,13 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Icon:
     path: UI/EffectIcon/CiggySide
-  _chance: 30
+  _chance: 50
   _genderRestriction: 0
   _addiction: 0
-  _modifiers: []
-  _applyers:
-  - _type: 1
+  _modifiers:
+  - _type: 5
+    _value: 1
+    _duration: 10
+    _durationMode: 0
     _delay: 0
     _delayMode: 0
-    _valueType: 0
-    _value: ffffffff
+  _applyers: []
