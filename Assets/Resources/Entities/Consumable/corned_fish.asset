@@ -16,12 +16,12 @@ MonoBehaviour:
     path: Entities/Consumable/Corned_Fish
   m_Localization: consumable.corned_fish
   Takeable: 1
-  Cost: 35
+  Cost: 24
   Weight: 360
   Collectable: 1
   Modifiers: []
   _effects:
-  - path: Entities/Effect/Corned_Fish
+  - path: entities/effect/corned_fish
   canUseInBattle: 0
   waste:
     path: 
