@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1397509372, guid: ba80931603c2dbc40ab113c533efa2ed, type: 3}
+  m_Name: knife_throw
+  m_EditorClassIdentifier: 
+  Icon:
+    path: Entities/Weapon/Knife_Throw
+  m_Localization: weapon.knife_throw
+  Takeable: 1
+  Cost: 20
+  Weight: 60
+  Collectable: 1
+  Modifiers: []
+  HasModel: 1
+  weaponType: 5
+  Ammo:
+    path: 
+  AmmoCapacity: 0
+  BothHands: 0
+  Stack: 1
+  DamageMin: 6
+  DamageMax: 10
+  DamageRadius: 1
+  Fatality: 0
+  Perks: 2097157
+  PerksEx: 0
+  DamageType: 0
+  Single:
+    AP: 3
+    Range: 10
+    Shots: 1
+    Dispersion: 0
+    ModeType: 6
+    Sounds:
+    - path: Sounds/SFX/Weapons/Melee/hit_general_whoosh
+  Aimed:
+    AP: 4
+    Range: 10
+    Shots: 1
+    Dispersion: 0
+    ModeType: 6
+    Sounds:
+    - path: Sounds/SFX/Weapons/Melee/hit_general_whoosh
+  Burst:
+    AP: 0
+    Range: 0
+    Shots: 0
+    Dispersion: 0
+    ModeType: 6
+    Sounds: []
+  Reload:
+    AP: 0
+    Range: 0
+    Shots: 0
+    Dispersion: 0
+    ModeType: 0
+    Sounds: []
+  Effects: []
+  Requirements:
+  - _type: 6
+    _value: 5
+  - _type: 13
+    _value: 50
+  NoAmmoSounds: []
+  PreAttackSounds:
+  - path: Sounds/SFX/Weapons/Melee/hit_general_whoosh
+  MissSounds: []
