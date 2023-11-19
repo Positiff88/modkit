@@ -10,27 +10,27 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1928272209, guid: ba80931603c2dbc40ab113c533efa2ed, type: 3}
-  m_Name: chitinarmor
+  m_Name: helmet_2
   m_EditorClassIdentifier: 
   Icon:
-    path: Entities/Uniform/ChitinArmor
-  m_Localization: uniform.chitinarmor
+    path: Entities/Uniform/Helmet_2
+  m_Localization: uniform.helmet_2
   Takeable: 1
-  Cost: 6600
-  Weight: 3270
+  Cost: 3500
+  Weight: 3350
   Collectable: 1
   Modifiers:
   - _type: 27
-    _value: -5
-  - _type: 30
-    _value: 29
-  - _type: 40
-    _value: 7
+    _value: -4
+  - _type: 42
+    _value: 15
+  - _type: 43
+    _value: 3
   - _type: 46
-    _value: 40
-  UniformType: 1
-  HideMask: 0
-  ArmorDurability: 80
+    _value: 15
+  UniformType: 0
+  HideMask: 1
+  ArmorDurability: 50
   rules: []
   rulesEx: 0
   Perks: 0
