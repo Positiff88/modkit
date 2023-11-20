@@ -10,41 +10,31 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1928272209, guid: ba80931603c2dbc40ab113c533efa2ed, type: 3}
-  m_Name: ozk
+  m_Name: gasmask_2
   m_EditorClassIdentifier: 
   Icon:
-    path: Entities/Uniform/OZK
-  m_Localization: uniform.ozk
+    path: Entities/Uniform/Gasmask_2
+  m_Localization: uniform.gasmask_2
   Takeable: 1
-  Cost: 5700
-  Weight: 5100
-  Collectable: 0
+  Cost: 1200
+  Weight: 700
+  Collectable: 1
   Modifiers:
-  - _type: 27
-    _value: -20
-  - _type: 6
-    _value: -1
-  - _type: 36
-    _value: 60
   - _type: 35
-    _value: 100
-  - _type: 46
-    _value: 10
-  - _type: 30
-    _value: 5
+    _value: 75
   - _type: 2
     _value: -1
   UniformType: 3
-  HideMask: -1
+  HideMask: 2
   ArmorDurability: 0
   rules: []
   rulesEx: 0
-  Perks: 32
+  Perks: 0
   ClothesForMale:
-    path: entities/creature/basemaleozk
+    path: 
   ClothesForFemale:
-    path: entities/creature/basefemaleozk
+    path: 
   EquipIcon:
-    path: Entities/Uniform/OZK_Equip
+    path: 
   soundFit:
     path: 
