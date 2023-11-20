@@ -16,7 +16,7 @@ MonoBehaviour:
     path: Entities/Item/Shovel
   m_Localization: item.shovel
   Takeable: 1
-  Cost: 1
+  Cost: 10
   Weight: 250
   Collectable: 1
   Modifiers: []
