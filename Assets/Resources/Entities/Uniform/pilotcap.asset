@@ -10,28 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1928272209, guid: ba80931603c2dbc40ab113c533efa2ed, type: 3}
-  m_Name: pnv57
+  m_Name: pilotcap
   m_EditorClassIdentifier: 
   Icon:
-    path: Entities/Uniform/PNV57
-  m_Localization: uniform.pnv57
+    path: Entities/Uniform/PilotCap
+  m_Localization: uniform.pilotcap
   Takeable: 1
-  Cost: 7800
-  Weight: 2300
+  Cost: 400
+  Weight: 480
   Collectable: 1
   Modifiers:
-  - _type: 27
-    _value: -4
-  - _type: 42
-    _value: 5
-  - _type: 46
+  - _type: 16
     _value: 6
+  - _type: 46
+    _value: 4
+  - _type: 42
+    _value: 2
   UniformType: 0
   HideMask: 1
   ArmorDurability: 0
   rules: []
   rulesEx: 0
-  Perks: 12
+  Perks: 0
   ClothesForMale:
     path: 
   ClothesForFemale:
