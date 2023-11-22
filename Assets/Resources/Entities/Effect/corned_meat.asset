@@ -10,17 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 364586878, guid: ba80931603c2dbc40ab113c533efa2ed, type: 3}
-  m_Name: kasparamid
+  m_Name: corned_meat
   m_EditorClassIdentifier: 
   Icon:
     path: 
   _chance: -1
   _genderRestriction: 0
-  _addiction: 2
+  _addiction: 0
   _modifiers: []
   _applyers:
-  - _type: 1
+  - _type: 4
+    _delay: 0
+    _delayMode: 0
+    _valueType: 0
+    _value: 70feffff
+  - _type: 11
     _delay: 0
     _delayMode: 0
     _valueType: 3
-    _value: 0a0000000f000000
+    _value: 0300000007000000
