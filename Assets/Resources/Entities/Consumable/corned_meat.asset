@@ -16,7 +16,7 @@ MonoBehaviour:
     path: Entities/Consumable/Corned_Meat
   m_Localization: consumable.corned_meat
   Takeable: 1
-  Cost: 23
+  Cost: 22
   Weight: 380
   Collectable: 1
   Modifiers: []
