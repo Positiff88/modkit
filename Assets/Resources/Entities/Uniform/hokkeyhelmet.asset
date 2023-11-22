@@ -10,27 +10,25 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1928272209, guid: ba80931603c2dbc40ab113c533efa2ed, type: 3}
-  m_Name: helmet_home
+  m_Name: hokkeyhelmet
   m_EditorClassIdentifier: 
   Icon:
-    path: Entities/Uniform/Helmet_Home
-  m_Localization: uniform.helmet_home
+    path: Entities/Uniform/HokkeyHelmet
+  m_Localization: uniform.hokkeyhelmet
   Takeable: 1
-  Cost: 100
-  Weight: 2500
+  Cost: 120
+  Weight: 800
   Collectable: 1
   Modifiers:
   - _type: 27
-    _value: -5
+    _value: -1
   - _type: 42
-    _value: 4
+    _value: 3
   - _type: 43
     _value: 1
-  - _type: 36
-    _value: 10
   UniformType: 0
   HideMask: 1
-  ArmorDurability: 10
+  ArmorDurability: 5
   rules: []
   rulesEx: 0
   Perks: 0
