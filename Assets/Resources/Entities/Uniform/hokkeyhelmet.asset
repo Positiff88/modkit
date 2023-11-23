@@ -22,10 +22,10 @@ MonoBehaviour:
   Modifiers:
   - _type: 27
     _value: -1
-  - _type: 42
-    _value: 3
   - _type: 43
     _value: 1
+  - _type: 42
+    _value: 3
   UniformType: 0
   HideMask: 1
   ArmorDurability: 5

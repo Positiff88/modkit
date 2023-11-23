@@ -24,10 +24,10 @@ MonoBehaviour:
     _value: -10
   - _type: 6
     _value: -1
-  - _type: 30
-    _value: 30
   - _type: 40
     _value: 5
+  - _type: 30
+    _value: 30
   - _type: 36
     _value: 40
   UniformType: 1

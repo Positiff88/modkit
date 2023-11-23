@@ -22,14 +22,14 @@ MonoBehaviour:
   Modifiers:
   - _type: 27
     _value: -6
-  - _type: 42
-    _value: 12
-  - _type: 43
-    _value: 6
-  - _type: 1
-    _value: 1
   - _type: 2
     _value: -1
+  - _type: 1
+    _value: 1
+  - _type: 43
+    _value: 6
+  - _type: 42
+    _value: 12
   - _type: 36
     _value: 30
   UniformType: 0

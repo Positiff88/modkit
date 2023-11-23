@@ -20,12 +20,12 @@ MonoBehaviour:
   Weight: 1500
   Collectable: 1
   Modifiers:
+  - _type: 27
+    _value: -2
   - _type: 43
     _value: 4
   - _type: 42
     _value: 19
-  - _type: 27
-    _value: -2
   - _type: 46
     _value: 40
   UniformType: 0

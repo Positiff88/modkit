@@ -22,10 +22,10 @@ MonoBehaviour:
   Modifiers:
   - _type: 27
     _value: -5
-  - _type: 42
-    _value: 4
   - _type: 43
     _value: 1
+  - _type: 42
+    _value: 4
   - _type: 36
     _value: 10
   UniformType: 0

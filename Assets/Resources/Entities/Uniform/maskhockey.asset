@@ -20,10 +20,10 @@ MonoBehaviour:
   Weight: 240
   Collectable: 1
   Modifiers:
-  - _type: 42
-    _value: 5
   - _type: 43
     _value: 1
+  - _type: 42
+    _value: 5
   UniformType: 3
   HideMask: 2
   ArmorDurability: 0

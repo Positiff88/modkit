@@ -24,6 +24,8 @@ MonoBehaviour:
     _value: -20
   - _type: 6
     _value: -1
+  - _type: 2
+    _value: -1
   - _type: 36
     _value: 60
   - _type: 35
@@ -32,8 +34,6 @@ MonoBehaviour:
     _value: 10
   - _type: 30
     _value: 5
-  - _type: 2
-    _value: -1
   UniformType: 3
   HideMask: -1
   ArmorDurability: 0
