@@ -16,7 +16,7 @@ MonoBehaviour:
     path: Entities/Uniform/Svarshik_Maska
   m_Localization: uniform.svarshik_maska
   Takeable: 1
-  Cost: 1200
+  Cost: 950
   Weight: 950
   Collectable: 1
   Modifiers:
@@ -25,7 +25,7 @@ MonoBehaviour:
   - _type: 2
     _value: -1
   - _type: 43
-    _value: 2
+    _value: 1
   - _type: 42
     _value: 5
   - _type: 46
