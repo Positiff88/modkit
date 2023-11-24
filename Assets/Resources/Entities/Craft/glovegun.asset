@@ -21,15 +21,14 @@ MonoBehaviour:
   - count: 1
     variants:
     - path: entities/weapon/makarov
-    - path: entities/weapon/makarov_rust
     consumable: 1
   - count: 1
     variants:
     - path: entities/item/toolbox
     consumable: 0
-  - count: 2
+  - count: 1
     variants:
-    - path: entities/item/wires
+    - path: entities/item/rabbitfur
     consumable: 1
   - count: 1
     variants:

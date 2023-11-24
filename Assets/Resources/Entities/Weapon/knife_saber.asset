@@ -10,46 +10,46 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1397509372, guid: ba80931603c2dbc40ab113c533efa2ed, type: 3}
-  m_Name: glove_gun
+  m_Name: knife_saber
   m_EditorClassIdentifier: 
   Icon:
-    path: Entities/Weapon/Glove_Gun
-  m_Localization: weapon.glove_gun
+    path: Entities/Weapon/Knife_Saber
+  m_Localization: weapon.knife_saber
   Takeable: 1
-  Cost: 1167
-  Weight: 1592
+  Cost: 2347
+  Weight: 700
   Collectable: 1
   Modifiers: []
   HasModel: 1
-  weaponType: 6
+  weaponType: 3
   Ammo:
-    path: entities/ammo/9mm_jhp
-  AmmoCapacity: 5
+    path: 
+  AmmoCapacity: 0
   BothHands: 0
   Stack: 0
-  DamageMin: 15
-  DamageMax: 24
+  DamageMin: 17
+  DamageMax: 29
   DamageRadius: 1
   Fatality: 0
-  Perks: 2097160
-  PerksEx: 16
+  Perks: 8388609
+  PerksEx: 96
   DamageType: 0
   Single:
     AP: 4
-    Range: 1
+    Range: 2
     Shots: 1
     Dispersion: 0
-    ModeType: 0
+    ModeType: 7
     Sounds:
-    - path: Sounds/SFX/Weapons/Melee/hit_kick
+    - path: Sounds/SFX/Weapons/Melee/hit_knife
   Aimed:
     AP: 5
-    Range: 1
+    Range: 2
     Shots: 1
     Dispersion: 0
-    ModeType: 0
+    ModeType: 7
     Sounds:
-    - path: Sounds/SFX/Weapons/Melee/hit_kick
+    - path: Sounds/SFX/Weapons/Melee/hit_knife
   Burst:
     AP: 0
     Range: 0
@@ -58,21 +58,19 @@ MonoBehaviour:
     ModeType: 0
     Sounds: []
   Reload:
-    AP: 3
+    AP: 0
     Range: 0
     Shots: 0
     Dispersion: 0
     ModeType: 0
-    Sounds:
-    - path: Sounds/SFX/Weapons/Pipe_Pistol/pipe_pistol_reload
+    Sounds: []
   Effects: []
   Requirements:
   - _type: 6
-    _value: 6
-  - _type: 11
+    _value: 7
+  - _type: 12
     _value: 110
-  NoAmmoSounds:
-  - path: Sounds/SFX/Weapons/Pipe_Pistol/pipe_pistol_empty
+  NoAmmoSounds: []
   PreAttackSounds:
-  - path: Sounds/SFX/Weapons/Glove_Gun/perchatka_shoot
+  - path: Sounds/SFX/Weapons/Melee/hit_general_whoosh
   MissSounds: []

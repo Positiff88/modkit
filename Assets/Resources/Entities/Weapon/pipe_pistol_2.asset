@@ -10,46 +10,46 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1397509372, guid: ba80931603c2dbc40ab113c533efa2ed, type: 3}
-  m_Name: glove_gun
+  m_Name: pipe_pistol_2
   m_EditorClassIdentifier: 
   Icon:
-    path: Entities/Weapon/Glove_Gun
-  m_Localization: weapon.glove_gun
+    path: Entities/Weapon/Pipe_Pistol_2
+  m_Localization: weapon.pipe_pistol_2
   Takeable: 1
-  Cost: 1167
-  Weight: 1592
-  Collectable: 1
+  Cost: 110
+  Weight: 800
+  Collectable: 0
   Modifiers: []
   HasModel: 1
-  weaponType: 6
+  weaponType: 1
   Ammo:
-    path: entities/ammo/9mm_jhp
-  AmmoCapacity: 5
+    path: entities/ammo/bb_ap
+  AmmoCapacity: 2
   BothHands: 0
   Stack: 0
-  DamageMin: 15
-  DamageMax: 24
+  DamageMin: 10
+  DamageMax: 15
   DamageRadius: 1
-  Fatality: 0
-  Perks: 2097160
-  PerksEx: 16
+  Fatality: 10
+  Perks: 2099200
+  PerksEx: 0
   DamageType: 0
   Single:
-    AP: 4
-    Range: 1
-    Shots: 1
+    AP: 3
+    Range: 5
+    Shots: 2
     Dispersion: 0
     ModeType: 0
     Sounds:
-    - path: Sounds/SFX/Weapons/Melee/hit_kick
+    - path: Sounds/SFX/Weapons/Pipe_Pistol/Pipe_Pistol_shoot2
+    - path: Sounds/SFX/Weapons/Pipe_Pistol/Pipe_Pistol_shoot2
   Aimed:
-    AP: 5
-    Range: 1
-    Shots: 1
+    AP: 0
+    Range: 0
+    Shots: 0
     Dispersion: 0
     ModeType: 0
-    Sounds:
-    - path: Sounds/SFX/Weapons/Melee/hit_kick
+    Sounds: []
   Burst:
     AP: 0
     Range: 0
@@ -67,12 +67,17 @@ MonoBehaviour:
     - path: Sounds/SFX/Weapons/Pipe_Pistol/pipe_pistol_reload
   Effects: []
   Requirements:
-  - _type: 6
-    _value: 6
-  - _type: 11
-    _value: 110
+  - _type: 1
+    _value: 3
+  - _type: 8
+    _value: 30
   NoAmmoSounds:
   - path: Sounds/SFX/Weapons/Pipe_Pistol/pipe_pistol_empty
-  PreAttackSounds:
-  - path: Sounds/SFX/Weapons/Glove_Gun/perchatka_shoot
-  MissSounds: []
+  PreAttackSounds: []
+  MissSounds:
+  - path: Sounds/SFX/Weapons/Miss/shoot_missing1
+  - path: Sounds/SFX/Weapons/Miss/shoot_missing2
+  - path: Sounds/SFX/Weapons/Miss/shoot_missing3
+  - path: Sounds/SFX/Weapons/Miss/shoot_missing4
+  - path: Sounds/SFX/Weapons/Miss/shoot_missing5
+  - path: Sounds/SFX/Weapons/Miss/shoot_missing6
