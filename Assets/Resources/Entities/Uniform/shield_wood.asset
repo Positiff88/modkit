@@ -23,9 +23,9 @@ MonoBehaviour:
   - _type: 44
     _value: 9
   - _type: 45
-    _value: 5
+    _value: 6
   - _type: 27
-    _value: -16
+    _value: -14
   UniformType: 2
   HideMask: 0
   ArmorDurability: 40
