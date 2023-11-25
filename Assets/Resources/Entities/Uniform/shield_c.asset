@@ -10,25 +10,25 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1928272209, guid: ba80931603c2dbc40ab113c533efa2ed, type: 3}
-  m_Name: shield_wood
+  m_Name: shield_c
   m_EditorClassIdentifier: 
   Icon:
-    path: Entities/Uniform/Shield_Wood
-  m_Localization: uniform.shield_wood
+    path: Entities/Uniform/Shield_C
+  m_Localization: uniform.shield_c
   Takeable: 1
-  Cost: 40
-  Weight: 3500
+  Cost: 950
+  Weight: 4500
   Collectable: 1
   Modifiers:
   - _type: 44
-    _value: 9
+    _value: 29
   - _type: 45
-    _value: 5
+    _value: 13
   - _type: 27
-    _value: -16
+    _value: -18
   UniformType: 2
   HideMask: 0
-  ArmorDurability: 40
+  ArmorDurability: 85
   rules: []
   rulesEx: 0
   Perks: 1
