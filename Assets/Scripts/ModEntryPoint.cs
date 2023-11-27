@@ -94,7 +94,8 @@ public class ModEntryPoint : MonoBehaviour // ModEntryPoint - RESERVED LOOKUP NA
 
     void GameLoaded(GlobalEvents.GameStart evnt)
     {
-        Localization.LoadStrings("betterconsumableitems_strings_");
+        Localization.LoadStrings(modName + "_strings_");
+        Localization.LoadTexts(modName + "_texts_");
         Game.World.console.DeveloperMode();
     }
 
