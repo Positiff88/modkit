@@ -17,7 +17,7 @@ MonoBehaviour:
   m_Localization: consumable.flask_watter
   Takeable: 1
   Cost: 20
-  Weight: 950
+  Weight: 1000
   Collectable: 1
   Modifiers: []
   _effects:

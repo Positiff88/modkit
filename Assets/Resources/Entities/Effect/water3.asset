@@ -23,9 +23,9 @@ MonoBehaviour:
     _delay: 0
     _delayMode: 0
     _valueType: 0
-    _value: daffffff
+    _value: d8ffffff
   - _type: 3
     _delay: 1
     _delayMode: 0
     _valueType: 0
-    _value: dbffffff
+    _value: d8ffffff
