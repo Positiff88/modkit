@@ -522,8 +522,8 @@
       "ecc1144c-676c-4e1b-8fe1-644bc75ee7ff" : { 
          "class" : "DialogAnswerNode", 
          "desc" : { 
-            "x" : "720", 
-            "y" : "1415"
+            "x" : "777", 
+            "y" : "1464"
          }, 
          "child" : [ 
             "798af017-6940-4055-8ee6-1d3e1dfc5950"
@@ -533,8 +533,8 @@
       "798af017-6940-4055-8ee6-1d3e1dfc5950" : { 
          "class" : "DummyNode", 
          "desc" : { 
-            "x" : "922", 
-            "y" : "1521"
+            "x" : "830", 
+            "y" : "1544"
          }, 
          "child" : [ 
             "a39e573c-0a63-4528-bebd-a860b67f48ed"
@@ -911,8 +911,8 @@
       "3c92735a-2793-40fa-991c-33e3486ec658" : { 
          "class" : "PlaySoundNode", 
          "desc" : { 
-            "x" : "498", 
-            "y" : "1335"
+            "x" : "590", 
+            "y" : "1352"
          }, 
          "child" : [ 
             "ecc1144c-676c-4e1b-8fe1-644bc75ee7ff"
@@ -1035,8 +1035,8 @@
       "e9aac740-2ace-4109-a9b8-7d036bb990dc" : { 
          "class" : "AddExpNode", 
          "desc" : { 
-            "x" : "674", 
-            "y" : "883"
+            "x" : "626", 
+            "y" : "876"
          }, 
          "child" : [ 
             "03c69444-0aa7-4fb3-911e-c8318a9268df"
@@ -1046,8 +1046,8 @@
       "03c69444-0aa7-4fb3-911e-c8318a9268df" : { 
          "class" : "InventoryRemoveItemNode", 
          "desc" : { 
-            "x" : "661", 
-            "y" : "942"
+            "x" : "584", 
+            "y" : "938"
          }, 
          "child" : [ 
             "0b3c9c87-5620-456f-9333-e4362d961e59"
@@ -1173,8 +1173,8 @@
       "74ec65f5-ab8e-4f4b-874d-cd36e8992caf" : { 
          "class" : "DialogPhraseNode", 
          "desc" : { 
-            "x" : "974", 
-            "y" : "723"
+            "x" : "962", 
+            "y" : "671"
          }, 
          "child" : [ 
             "8ad1d903-2c30-4394-baf4-84ae6dfdbddb", 
@@ -1186,8 +1186,8 @@
       "8ad1d903-2c30-4394-baf4-84ae6dfdbddb" : { 
          "class" : "DialogAnswerNode", 
          "desc" : { 
-            "x" : "857", 
-            "y" : "830"
+            "x" : "896", 
+            "y" : "825"
          }, 
          "child" : [ 
             "7ef14414-fcfd-41b4-a2ee-1e2a9bf4648c"
@@ -1197,8 +1197,8 @@
       "7ef14414-fcfd-41b4-a2ee-1e2a9bf4648c" : { 
          "class" : "InventoryRemoveItemNode", 
          "desc" : { 
-            "x" : "1064", 
-            "y" : "891"
+            "x" : "874", 
+            "y" : "901"
          }, 
          "child" : [ 
             "796e40a8-e8cc-40f4-8dcb-6e48773504e5"
@@ -1213,8 +1213,8 @@
       "796e40a8-e8cc-40f4-8dcb-6e48773504e5" : { 
          "class" : "AddExpNode", 
          "desc" : { 
-            "x" : "1124", 
-            "y" : "975"
+            "x" : "1054", 
+            "y" : "1018"
          }, 
          "child" : [ 
             "56e090df-b42c-4f8b-bf2e-3ea92d7b1e7c"
@@ -1224,31 +1224,19 @@
       "56e090df-b42c-4f8b-bf2e-3ea92d7b1e7c" : { 
          "class" : "RandomNode", 
          "desc" : { 
-            "x" : "1149", 
-            "y" : "1033"
+            "x" : "1196", 
+            "y" : "1038"
          }, 
          "child" : [ 
-            "b4020b1d-e726-4669-b5d3-914caa7a8824", 
-            "08f08840-8372-406d-9608-807d94612ad4"
+            "a1c1b48a-cd99-4741-89fd-a822b1254110", 
+            "3ba3f364-91fa-4d9e-839c-7b9b9c740d37"
          ]
-      }, 
-      "b4020b1d-e726-4669-b5d3-914caa7a8824" : { 
-         "class" : "HealNode", 
-         "desc" : { 
-            "x" : "988", 
-            "y" : "1075"
-         }, 
-         "child" : [ 
-            "a1c1b48a-cd99-4741-89fd-a822b1254110"
-         ], 
-         "hp" : "10", 
-         "withTeammate" : "true"
       }, 
       "a1c1b48a-cd99-4741-89fd-a822b1254110" : { 
          "class" : "CharacterAddEffectNode", 
          "desc" : { 
-            "x" : "934", 
-            "y" : "1134"
+            "x" : "987", 
+            "y" : "1126"
          }, 
          "child" : [ 
             "4fac82b1-3bed-4cd8-99eb-d68e22da77f4"
@@ -1259,8 +1247,8 @@
       "4fac82b1-3bed-4cd8-99eb-d68e22da77f4" : { 
          "class" : "DialogPhraseNode", 
          "desc" : { 
-            "x" : "935", 
-            "y" : "1216"
+            "x" : "946", 
+            "y" : "1231"
          }, 
          "child" : [ 
             "3c92735a-2793-40fa-991c-33e3486ec658", 
@@ -1268,23 +1256,23 @@
          ], 
          "text" : "#Campfire.4fac82b1-3bed-4cd8-99eb-d68e22da77f4"
       }, 
-      "08f08840-8372-406d-9608-807d94612ad4" : { 
-         "class" : "HealNode", 
+      "3ba3f364-91fa-4d9e-839c-7b9b9c740d37" : { 
+         "class" : "CharacterAddEffectNode", 
          "desc" : { 
-            "x" : "1230", 
-            "y" : "1076"
+            "x" : "1266", 
+            "y" : "1127"
          }, 
          "child" : [ 
             "368f6b5f-c12c-42a7-93b6-a36d0021275f"
          ], 
-         "hp" : "-10", 
-         "withTeammate" : "true"
+         "proto" : "herb_side", 
+         "objectName" : "$TEAM$"
       }, 
       "368f6b5f-c12c-42a7-93b6-a36d0021275f" : { 
          "class" : "DialogPhraseNode", 
          "desc" : { 
-            "x" : "1247", 
-            "y" : "1138"
+            "x" : "1241", 
+            "y" : "1244"
          }, 
          "child" : [ 
             "3c92735a-2793-40fa-991c-33e3486ec658", 
@@ -1473,8 +1461,8 @@
       "e7f003da-db1f-401b-b818-0e70aa1032ce" : { 
          "class" : "PlaySoundNode", 
          "desc" : { 
-            "x" : "1205", 
-            "y" : "1364"
+            "x" : "1085", 
+            "y" : "1468"
          }, 
          "child" : [ 
             "ecc1144c-676c-4e1b-8fe1-644bc75ee7ff"
