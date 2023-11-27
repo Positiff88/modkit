@@ -10,27 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 364586878, guid: ba80931603c2dbc40ab113c533efa2ed, type: 3}
-  m_Name: cannedfish
+  m_Name: somtime_2
   m_EditorClassIdentifier: 
   Icon:
-    path: 
+    path: UI/EffectIcon/Fish
   _chance: -1
   _genderRestriction: 0
   _addiction: 0
-  _modifiers: []
-  _applyers:
-  - _type: 4
+  _modifiers:
+  - _type: 1
+    _value: 1
+    _duration: 12
+    _durationMode: 1
     _delay: 0
     _delayMode: 0
-    _valueType: 0
-    _value: 90fcffff
-  - _type: 11
-    _delay: 0
-    _delayMode: 0
-    _valueType: 3
-    _value: 080000000e000000
-  - _type: 2
-    _delay: 0
-    _delayMode: 0
-    _valueType: 0
-    _value: 02000000
+  _applyers: []
