@@ -36,7 +36,7 @@ MonoBehaviour:
   DamageType: 0
   Single:
     AP: 3
-    Range: 10
+    Range: 12
     Shots: 1
     Dispersion: 0
     ModeType: 0
@@ -45,7 +45,7 @@ MonoBehaviour:
     - path: Sounds/SFX/Weapons/Pipe_Revolver/Pipe_Revolver_shoot3
   Aimed:
     AP: 4
-    Range: 10
+    Range: 12
     Shots: 1
     Dispersion: 0
     ModeType: 0

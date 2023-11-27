@@ -24,14 +24,14 @@ MonoBehaviour:
   weaponType: 1
   Ammo:
     path: entities/ammo/pb
-  AmmoCapacity: 5
+  AmmoCapacity: 6
   BothHands: 0
   Stack: 0
   DamageMin: 5
   DamageMax: 8
   DamageRadius: 1
   Fatality: 10
-  Perks: 2099200
+  Perks: 2230272
   PerksEx: 0
   DamageType: 0
   Single:
