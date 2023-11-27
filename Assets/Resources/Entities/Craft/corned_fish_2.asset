@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1559134194, guid: ba80931603c2dbc40ab113c533efa2ed, type: 3}
+  m_Name: corned_fish_2
+  m_EditorClassIdentifier: 
+  recipeOnly: 0
+  result:
+    path: entities/consumable/corned_fish
+  resultCount: 4
+  difficult: 2
+  ingredients:
+  - count: 2
+    variants:
+    - path: entities/item/solt
+    consumable: 1
+  - count: 1
+    variants:
+    - path: entities/consumable/fish.gorbach
+    consumable: 1
+  dependencies: []
+  soundCreate:
+    path: Sounds/SFX/Craft/Craft_Salt
+  soundFail:
+    path: Sounds/SFX/Craft/Fail_Craft
