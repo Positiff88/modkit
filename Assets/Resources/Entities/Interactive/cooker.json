@@ -329,8 +329,8 @@
       "67fe27a2-bfb3-420f-a22a-e5aa6546c9dc" : { 
          "class" : "DialogPhraseNode", 
          "desc" : { 
-            "x" : "-434", 
-            "y" : "1380"
+            "x" : "-458", 
+            "y" : "1368"
          }, 
          "child" : [ 
             "e7f003da-db1f-401b-b818-0e70aa1032ce", 
@@ -341,8 +341,8 @@
       "e7f003da-db1f-401b-b818-0e70aa1032ce" : { 
          "class" : "PlaySoundNode", 
          "desc" : { 
-            "x" : "1098", 
-            "y" : "1448"
+            "x" : "1460", 
+            "y" : "1770"
          }, 
          "child" : [ 
             "ecc1144c-676c-4e1b-8fe1-644bc75ee7ff"
@@ -354,8 +354,8 @@
       "ecc1144c-676c-4e1b-8fe1-644bc75ee7ff" : { 
          "class" : "DialogAnswerNode", 
          "desc" : { 
-            "x" : "720", 
-            "y" : "1415"
+            "x" : "656", 
+            "y" : "1871"
          }, 
          "child" : [ 
             "798af017-6940-4055-8ee6-1d3e1dfc5950"
@@ -365,8 +365,8 @@
       "798af017-6940-4055-8ee6-1d3e1dfc5950" : { 
          "class" : "DummyNode", 
          "desc" : { 
-            "x" : "922", 
-            "y" : "1521"
+            "x" : "710", 
+            "y" : "1941"
          }, 
          "child" : [ 
             "a39e573c-0a63-4528-bebd-a860b67f48ed"
@@ -375,8 +375,8 @@
       "1d954b09-aa40-4b37-b3c0-3880892114ad" : { 
          "class" : "DummyNode", 
          "desc" : { 
-            "x" : "1520", 
-            "y" : "-261"
+            "x" : "1713", 
+            "y" : "-320"
          }, 
          "child" : [ 
             "01da36f3-6c22-4563-9c2b-6d49654762e4"
@@ -385,8 +385,8 @@
       "01da36f3-6c22-4563-9c2b-6d49654762e4" : { 
          "class" : "DialogAnswerNode", 
          "desc" : { 
-            "x" : "1380", 
-            "y" : "-172"
+            "x" : "1573", 
+            "y" : "-231"
          }, 
          "child" : [ 
             "81b3785f-2a2c-4a83-b030-6c0b9fc745a1"
@@ -396,8 +396,8 @@
       "81b3785f-2a2c-4a83-b030-6c0b9fc745a1" : { 
          "class" : "DialogEndNode", 
          "desc" : { 
-            "x" : "1460", 
-            "y" : "-76"
+            "x" : "1740", 
+            "y" : "-138"
          }, 
          "child" : [ 
          ]
@@ -438,8 +438,8 @@
       "6a2c2cfd-455f-4779-ab69-5d77518cf4ef" : { 
          "class" : "InventoryAddItemNode", 
          "desc" : { 
-            "x" : "-628", 
-            "y" : "1201"
+            "x" : "-654", 
+            "y" : "1199"
          }, 
          "child" : [ 
             "604fa73f-507e-4414-a568-d0bac95c0130"
@@ -471,8 +471,8 @@
       "c58e5658-cadf-422c-8814-118fb8009cff" : { 
          "class" : "InventoryRemoveItemNode", 
          "desc" : { 
-            "x" : "-428", 
-            "y" : "1148"
+            "x" : "-496", 
+            "y" : "1169"
          }, 
          "child" : [ 
             "68d6f3fe-99b5-4ab6-8bd3-48dc767efde3"
@@ -487,8 +487,8 @@
       "68d6f3fe-99b5-4ab6-8bd3-48dc767efde3" : { 
          "class" : "InventoryAddItemNode", 
          "desc" : { 
-            "x" : "-450", 
-            "y" : "1267"
+            "x" : "-511", 
+            "y" : "1277"
          }, 
          "child" : [ 
             "604fa73f-507e-4414-a568-d0bac95c0130"
@@ -503,8 +503,8 @@
       "39386ca2-a34c-4823-8d5d-52e68d8ebe54" : { 
          "class" : "DummyNode", 
          "desc" : { 
-            "x" : "-301", 
-            "y" : "1097"
+            "x" : "-433", 
+            "y" : "1041"
          }, 
          "child" : [ 
          ]
@@ -512,8 +512,8 @@
       "f79f9816-f9c0-4753-a620-77fadc3ec506" : { 
          "class" : "DummyNode", 
          "desc" : { 
-            "x" : "1613", 
-            "y" : "-217"
+            "x" : "1806", 
+            "y" : "-276"
          }, 
          "child" : [ 
             "01da36f3-6c22-4563-9c2b-6d49654762e4"
@@ -522,8 +522,8 @@
       "edd76e68-555e-47de-bc57-4b991987db59" : { 
          "class" : "DummyNode", 
          "desc" : { 
-            "x" : "-341", 
-            "y" : "535"
+            "x" : "-374", 
+            "y" : "553"
          }, 
          "child" : [ 
          ]
@@ -565,8 +565,8 @@
       "33dc497b-497c-4122-9de4-e06b1f50836b" : { 
          "class" : "DummyNode", 
          "desc" : { 
-            "x" : "-236", 
-            "y" : "229"
+            "x" : "-287", 
+            "y" : "192"
          }, 
          "child" : [ 
          ]
@@ -574,8 +574,8 @@
       "d77e2117-322e-4508-a62c-756924e2651b" : { 
          "class" : "InventoryHasItemNode", 
          "desc" : { 
-            "x" : "-67", 
-            "y" : "33"
+            "x" : "-97", 
+            "y" : "-82"
          }, 
          "child" : [ 
             "6317529c-696c-4cb6-974f-90dd78177627", 
@@ -591,8 +591,8 @@
       "6317529c-696c-4cb6-974f-90dd78177627" : { 
          "class" : "MathKeyValueNode", 
          "desc" : { 
-            "x" : "-83", 
-            "y" : "163"
+            "x" : "-139", 
+            "y" : "33"
          }, 
          "child" : [ 
             "60899468-a778-4f2a-a7a9-49a0a2f89986"
@@ -604,8 +604,8 @@
       "60899468-a778-4f2a-a7a9-49a0a2f89986" : { 
          "class" : "CompareKeyValueNode", 
          "desc" : { 
-            "x" : "-101", 
-            "y" : "235"
+            "x" : "-159", 
+            "y" : "125"
          }, 
          "child" : [ 
             "5d2592a6-1fde-4304-b1a6-453e6e60aadd", 
@@ -618,8 +618,8 @@
       "5d2592a6-1fde-4304-b1a6-453e6e60aadd" : { 
          "class" : "CompareKeyValueNode", 
          "desc" : { 
-            "x" : "-199", 
-            "y" : "353"
+            "x" : "-247", 
+            "y" : "264"
          }, 
          "child" : [ 
             "a1ca9d3f-d9c0-4510-81cc-57d01bfcadcb", 
@@ -632,8 +632,8 @@
       "a1ca9d3f-d9c0-4510-81cc-57d01bfcadcb" : { 
          "class" : "DialogAnswerNode", 
          "desc" : { 
-            "x" : "-152", 
-            "y" : "491"
+            "x" : "-303", 
+            "y" : "403"
          }, 
          "child" : [ 
             "0f1c8c39-e2a0-48f7-bc45-0f2063fcd7a7"
@@ -643,8 +643,8 @@
       "0f1c8c39-e2a0-48f7-bc45-0f2063fcd7a7" : { 
          "class" : "DialogPhraseNode", 
          "desc" : { 
-            "x" : "-128", 
-            "y" : "639"
+            "x" : "-249", 
+            "y" : "481"
          }, 
          "child" : [ 
             "119162a7-2766-4ac6-8f1a-5f22cec3de8c", 
@@ -656,8 +656,8 @@
       "119162a7-2766-4ac6-8f1a-5f22cec3de8c" : { 
          "class" : "DialogAnswerNode", 
          "desc" : { 
-            "x" : "-252", 
-            "y" : "757"
+            "x" : "-296", 
+            "y" : "668"
          }, 
          "child" : [ 
             "ecfa82d4-abca-49fd-8241-37a1f7ccfabb"
@@ -667,8 +667,8 @@
       "ecfa82d4-abca-49fd-8241-37a1f7ccfabb" : { 
          "class" : "AddExpNode", 
          "desc" : { 
-            "x" : "-210", 
-            "y" : "827"
+            "x" : "-302", 
+            "y" : "740"
          }, 
          "child" : [ 
             "c9782566-894b-4560-8b33-0c96bacd5a17"
@@ -678,8 +678,8 @@
       "c9782566-894b-4560-8b33-0c96bacd5a17" : { 
          "class" : "InventoryRemoveItemNode", 
          "desc" : { 
-            "x" : "-234", 
-            "y" : "909"
+            "x" : "-307", 
+            "y" : "815"
          }, 
          "child" : [ 
             "4e67ff22-f594-4b94-a46d-76eb47743de8"
@@ -694,8 +694,8 @@
       "4e67ff22-f594-4b94-a46d-76eb47743de8" : { 
          "class" : "CharacterAddEffectNode", 
          "desc" : { 
-            "x" : "-136", 
-            "y" : "1034"
+            "x" : "-292", 
+            "y" : "924"
          }, 
          "child" : [ 
             "3675a13b-f5eb-43b4-bc37-8b8590e30e54"
@@ -706,8 +706,8 @@
       "3675a13b-f5eb-43b4-bc37-8b8590e30e54" : { 
          "class" : "DialogPhraseNode", 
          "desc" : { 
-            "x" : "-78", 
-            "y" : "1135"
+            "x" : "-317", 
+            "y" : "1050"
          }, 
          "child" : [ 
             "e7f003da-db1f-401b-b818-0e70aa1032ce", 
@@ -718,8 +718,8 @@
       "26292b5d-229d-4eb5-9fb9-b334f6daf577" : { 
          "class" : "DummyNode", 
          "desc" : { 
-            "x" : "97", 
-            "y" : "475"
+            "x" : "-69", 
+            "y" : "399"
          }, 
          "child" : [ 
          ]
@@ -727,8 +727,8 @@
       "c1e603e1-2c7a-48e8-a518-e849655e5593" : { 
          "class" : "DummyNode", 
          "desc" : { 
-            "x" : "167", 
-            "y" : "179"
+            "x" : "-21", 
+            "y" : "52"
          }, 
          "child" : [ 
          ]
@@ -736,11 +736,11 @@
       "3c43baaf-29e4-4aa0-9d28-b162114c6a1a" : { 
          "class" : "InventoryHasItemNode", 
          "desc" : { 
-            "x" : "536", 
-            "y" : "0"
+            "x" : "113", 
+            "y" : "-112"
          }, 
          "child" : [ 
-            "8b15ce47-38af-4263-a810-dc3a16194e24", 
+            "de74d8c3-f8fd-4705-be97-8d5c42339d69", 
             "905a0ce1-3efc-44ad-a395-cb0094eea7a5"
          ], 
          "item" : { 
@@ -750,11 +750,28 @@
          }, 
          "objectName" : "Player"
       }, 
+      "de74d8c3-f8fd-4705-be97-8d5c42339d69" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "88", 
+            "y" : "101"
+         }, 
+         "child" : [ 
+            "8b15ce47-38af-4263-a810-dc3a16194e24", 
+            "19c6df13-bca5-464e-a57c-98a20764c74e"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Flask_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
       "8b15ce47-38af-4263-a810-dc3a16194e24" : { 
          "class" : "MathKeyValueNode", 
          "desc" : { 
-            "x" : "488", 
-            "y" : "112"
+            "x" : "70", 
+            "y" : "298"
          }, 
          "child" : [ 
             "7668be96-f90d-4408-b058-c6a790dcc143"
@@ -766,8 +783,8 @@
       "7668be96-f90d-4408-b058-c6a790dcc143" : { 
          "class" : "CompareKeyValueNode", 
          "desc" : { 
-            "x" : "470", 
-            "y" : "198"
+            "x" : "442", 
+            "y" : "276"
          }, 
          "child" : [ 
             "a6d56f64-f27b-47e4-ad12-d610fa0b8ef1", 
@@ -780,8 +797,8 @@
       "a6d56f64-f27b-47e4-ad12-d610fa0b8ef1" : { 
          "class" : "CompareKeyValueNode", 
          "desc" : { 
-            "x" : "372", 
-            "y" : "316"
+            "x" : "200", 
+            "y" : "278"
          }, 
          "child" : [ 
             "a14a1867-ec6b-4e94-80ac-451e3f0b384a", 
@@ -794,8 +811,8 @@
       "a14a1867-ec6b-4e94-80ac-451e3f0b384a" : { 
          "class" : "DialogAnswerNode", 
          "desc" : { 
-            "x" : "341", 
-            "y" : "564"
+            "x" : "34", 
+            "y" : "439"
          }, 
          "child" : [ 
             "6614f767-59b6-4acb-9d29-b0b05a77e916"
@@ -805,8 +822,8 @@
       "6614f767-59b6-4acb-9d29-b0b05a77e916" : { 
          "class" : "DialogPhraseNode", 
          "desc" : { 
-            "x" : "330", 
-            "y" : "719"
+            "x" : "284", 
+            "y" : "426"
          }, 
          "child" : [ 
             "68ae6c7d-d5f3-40cd-87a3-fa108b5e9f90", 
@@ -818,8 +835,8 @@
       "68ae6c7d-d5f3-40cd-87a3-fa108b5e9f90" : { 
          "class" : "DialogAnswerNode", 
          "desc" : { 
-            "x" : "265", 
-            "y" : "826"
+            "x" : "27", 
+            "y" : "521"
          }, 
          "child" : [ 
             "57fb2250-f107-4ba0-9e0e-125339b3218a"
@@ -829,8 +846,8 @@
       "57fb2250-f107-4ba0-9e0e-125339b3218a" : { 
          "class" : "AddExpNode", 
          "desc" : { 
-            "x" : "250", 
-            "y" : "888"
+            "x" : "15", 
+            "y" : "590"
          }, 
          "child" : [ 
             "bd7a03ef-6a9d-4313-8a5e-8cb9a45dfa79"
@@ -840,11 +857,11 @@
       "bd7a03ef-6a9d-4313-8a5e-8cb9a45dfa79" : { 
          "class" : "InventoryRemoveItemNode", 
          "desc" : { 
-            "x" : "249", 
-            "y" : "948"
+            "x" : "143", 
+            "y" : "585"
          }, 
          "child" : [ 
-            "887c3b00-87fb-41c3-9af6-bfbd29c8495d"
+            "e340610a-21e8-4884-ac5b-f60f290b4555"
          ], 
          "item" : { 
             "class" : "Item", 
@@ -853,11 +870,72 @@
          }, 
          "objectName" : "Player"
       }, 
+      "e340610a-21e8-4884-ac5b-f60f290b4555" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "-33", 
+            "y" : "722"
+         }, 
+         "child" : [ 
+            "eb85a249-9e38-4b1c-ac2e-fff933ce7242", 
+            "b80b9d82-a82d-4ca3-8091-4600d6c5d6b8"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Flask_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "eb85a249-9e38-4b1c-ac2e-fff933ce7242" : { 
+         "class" : "InventoryRemoveItemNode", 
+         "desc" : { 
+            "x" : "-87", 
+            "y" : "861"
+         }, 
+         "child" : [ 
+            "401f8c28-40eb-4446-87cd-72cbc7b1bf4a"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Flask_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "401f8c28-40eb-4446-87cd-72cbc7b1bf4a" : { 
+         "class" : "InventoryAddItemNode", 
+         "desc" : { 
+            "x" : "-48", 
+            "y" : "1000"
+         }, 
+         "child" : [ 
+            "6a44ceaa-d618-47e2-987a-74c57ea1287d"
+         ], 
+         "item" : { 
+            "class" : "Item", 
+            "count" : "1", 
+            "proto" : "Flask_Empty"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "6a44ceaa-d618-47e2-987a-74c57ea1287d" : { 
+         "class" : "CharacterAddEffectNode", 
+         "desc" : { 
+            "x" : "-82", 
+            "y" : "1093"
+         }, 
+         "child" : [ 
+            "887c3b00-87fb-41c3-9af6-bfbd29c8495d"
+         ], 
+         "proto" : "water3", 
+         "objectName" : "$TEAM$"
+      }, 
       "887c3b00-87fb-41c3-9af6-bfbd29c8495d" : { 
          "class" : "CharacterAddEffectNode", 
          "desc" : { 
-            "x" : "208", 
-            "y" : "1056"
+            "x" : "-91", 
+            "y" : "1310"
          }, 
          "child" : [ 
             "888afff3-b9a7-4641-b3a1-05222043837f"
@@ -868,8 +946,8 @@
       "888afff3-b9a7-4641-b3a1-05222043837f" : { 
          "class" : "DialogPhraseNode", 
          "desc" : { 
-            "x" : "234", 
-            "y" : "1156"
+            "x" : "65", 
+            "y" : "1298"
          }, 
          "child" : [ 
             "3c92735a-2793-40fa-991c-33e3486ec658", 
@@ -880,8 +958,8 @@
       "3c92735a-2793-40fa-991c-33e3486ec658" : { 
          "class" : "PlaySoundNode", 
          "desc" : { 
-            "x" : "498", 
-            "y" : "1335"
+            "x" : "467", 
+            "y" : "1748"
          }, 
          "child" : [ 
             "ecc1144c-676c-4e1b-8fe1-644bc75ee7ff"
@@ -890,20 +968,185 @@
          "playOnObject" : "false", 
          "saveStateOnSaveAndLoad" : "false"
       }, 
-      "d4868b61-1877-4f03-ba21-2209ff511590" : { 
+      "b80b9d82-a82d-4ca3-8091-4600d6c5d6b8" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "145", 
+            "y" : "721"
+         }, 
+         "child" : [ 
+            "30b2f9c4-e89e-4f65-9a50-bc444e0d3f83", 
+            "a5a997c8-e483-496b-9090-09a9735315b3"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "30b2f9c4-e89e-4f65-9a50-bc444e0d3f83" : { 
+         "class" : "InventoryRemoveItemNode", 
+         "desc" : { 
+            "x" : "128", 
+            "y" : "861"
+         }, 
+         "child" : [ 
+            "35f460a9-dd78-4cb8-8ec2-7afa6c6caf18"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "35f460a9-dd78-4cb8-8ec2-7afa6c6caf18" : { 
+         "class" : "InventoryAddItemNode", 
+         "desc" : { 
+            "x" : "113", 
+            "y" : "995"
+         }, 
+         "child" : [ 
+            "d8f38aa3-46de-46b5-8b01-2be3bb9fdcf2"
+         ], 
+         "item" : { 
+            "class" : "Item", 
+            "count" : "1", 
+            "proto" : "Bottle_Empty"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "d8f38aa3-46de-46b5-8b01-2be3bb9fdcf2" : { 
+         "class" : "CharacterAddEffectNode", 
+         "desc" : { 
+            "x" : "101", 
+            "y" : "1094"
+         }, 
+         "child" : [ 
+            "887c3b00-87fb-41c3-9af6-bfbd29c8495d"
+         ], 
+         "proto" : "water", 
+         "objectName" : "$TEAM$"
+      }, 
+      "a5a997c8-e483-496b-9090-09a9735315b3" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "325", 
+            "y" : "722"
+         }, 
+         "child" : [ 
+            "eb6eaa2f-e562-42f9-98d8-e20994e22c9a", 
+            "91bceae9-3a1a-4f7b-bc0c-17a666645adb"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Water2"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "eb6eaa2f-e562-42f9-98d8-e20994e22c9a" : { 
+         "class" : "InventoryRemoveItemNode", 
+         "desc" : { 
+            "x" : "248", 
+            "y" : "969"
+         }, 
+         "child" : [ 
+            "9cc7fec8-9376-48a5-9a7b-e250f13d0cae"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Water2"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "9cc7fec8-9376-48a5-9a7b-e250f13d0cae" : { 
+         "class" : "InventoryAddItemNode", 
+         "desc" : { 
+            "x" : "285", 
+            "y" : "1073"
+         }, 
+         "child" : [ 
+            "2a056a54-3cd9-4f82-8452-0b586b2fdc53"
+         ], 
+         "item" : { 
+            "class" : "Item", 
+            "count" : "1", 
+            "proto" : "Bottle_Empty2"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "2a056a54-3cd9-4f82-8452-0b586b2fdc53" : { 
+         "class" : "CharacterAddEffectNode", 
+         "desc" : { 
+            "x" : "224", 
+            "y" : "1186"
+         }, 
+         "child" : [ 
+            "887c3b00-87fb-41c3-9af6-bfbd29c8495d"
+         ], 
+         "proto" : "water2", 
+         "objectName" : "$TEAM$"
+      }, 
+      "91bceae9-3a1a-4f7b-bc0c-17a666645adb" : { 
          "class" : "DummyNode", 
          "desc" : { 
-            "x" : "668", 
-            "y" : "438"
+            "x" : "334", 
+            "y" : "837"
          }, 
          "child" : [ 
          ]
       }, 
+      "d4868b61-1877-4f03-ba21-2209ff511590" : { 
+         "class" : "DummyNode", 
+         "desc" : { 
+            "x" : "536", 
+            "y" : "435"
+         }, 
+         "child" : [ 
+         ]
+      }, 
+      "19c6df13-bca5-464e-a57c-98a20764c74e" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "262", 
+            "y" : "99"
+         }, 
+         "child" : [ 
+            "8b15ce47-38af-4263-a810-dc3a16194e24", 
+            "29663a7e-330c-46c9-99c5-cba8a3296878"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "29663a7e-330c-46c9-99c5-cba8a3296878" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "436", 
+            "y" : "99"
+         }, 
+         "child" : [ 
+            "8b15ce47-38af-4263-a810-dc3a16194e24", 
+            "905a0ce1-3efc-44ad-a395-cb0094eea7a5"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Water2"
+         }, 
+         "objectName" : "Player"
+      }, 
       "905a0ce1-3efc-44ad-a395-cb0094eea7a5" : { 
          "class" : "DummyNode", 
          "desc" : { 
-            "x" : "614", 
-            "y" : "138"
+            "x" : "215", 
+            "y" : "36"
          }, 
          "child" : [ 
          ]
@@ -911,11 +1154,11 @@
       "6980ee6e-12e6-48f1-b439-b66832bc6cbe" : { 
          "class" : "InventoryHasItemNode", 
          "desc" : { 
-            "x" : "846", 
-            "y" : "-4"
+            "x" : "444", 
+            "y" : "-166"
          }, 
          "child" : [ 
-            "7a8a21c0-07d3-4b11-99b6-a038a5f4b540", 
+            "5e85eb23-727e-4831-a2e3-ddadf827e6b8", 
             "85174a87-3b8e-4392-bb3f-346c5e4eaa20"
          ], 
          "item" : { 
@@ -925,11 +1168,28 @@
          }, 
          "objectName" : "Player"
       }, 
+      "5e85eb23-727e-4831-a2e3-ddadf827e6b8" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "626", 
+            "y" : "26"
+         }, 
+         "child" : [ 
+            "7a8a21c0-07d3-4b11-99b6-a038a5f4b540", 
+            "de151173-9ad1-412c-80c9-b663037f6cd0"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Flask_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
       "7a8a21c0-07d3-4b11-99b6-a038a5f4b540" : { 
          "class" : "MathKeyValueNode", 
          "desc" : { 
-            "x" : "820", 
-            "y" : "120"
+            "x" : "626", 
+            "y" : "179"
          }, 
          "child" : [ 
             "261649c0-a914-4fd1-bc39-6c0e16c5338a"
@@ -942,7 +1202,7 @@
          "class" : "CompareKeyValueNode", 
          "desc" : { 
             "x" : "802", 
-            "y" : "206"
+            "y" : "175"
          }, 
          "child" : [ 
             "d271a352-5130-4f10-b8ef-6c88b026d480", 
@@ -955,8 +1215,8 @@
       "d271a352-5130-4f10-b8ef-6c88b026d480" : { 
          "class" : "CompareKeyValueNode", 
          "desc" : { 
-            "x" : "704", 
-            "y" : "322"
+            "x" : "706", 
+            "y" : "309"
          }, 
          "child" : [ 
             "14cac5e5-b9aa-4dd3-9cdb-b065b4737a04", 
@@ -969,8 +1229,8 @@
       "14cac5e5-b9aa-4dd3-9cdb-b065b4737a04" : { 
          "class" : "DialogAnswerNode", 
          "desc" : { 
-            "x" : "695", 
-            "y" : "585"
+            "x" : "662", 
+            "y" : "444"
          }, 
          "child" : [ 
             "343283aa-0fb9-4644-ba5d-94c3089400a1"
@@ -980,8 +1240,8 @@
       "343283aa-0fb9-4644-ba5d-94c3089400a1" : { 
          "class" : "DialogPhraseNode", 
          "desc" : { 
-            "x" : "693", 
-            "y" : "690"
+            "x" : "594", 
+            "y" : "517"
          }, 
          "child" : [ 
             "bdfb888b-bc9d-4f68-acb1-b71102bb79ff", 
@@ -993,8 +1253,8 @@
       "bdfb888b-bc9d-4f68-acb1-b71102bb79ff" : { 
          "class" : "DialogAnswerNode", 
          "desc" : { 
-            "x" : "565", 
-            "y" : "806"
+            "x" : "451", 
+            "y" : "625"
          }, 
          "child" : [ 
             "e9aac740-2ace-4109-a9b8-7d036bb990dc"
@@ -1004,8 +1264,8 @@
       "e9aac740-2ace-4109-a9b8-7d036bb990dc" : { 
          "class" : "AddExpNode", 
          "desc" : { 
-            "x" : "674", 
-            "y" : "883"
+            "x" : "465", 
+            "y" : "695"
          }, 
          "child" : [ 
             "03c69444-0aa7-4fb3-911e-c8318a9268df"
@@ -1015,11 +1275,11 @@
       "03c69444-0aa7-4fb3-911e-c8318a9268df" : { 
          "class" : "InventoryRemoveItemNode", 
          "desc" : { 
-            "x" : "661", 
-            "y" : "942"
+            "x" : "579", 
+            "y" : "691"
          }, 
          "child" : [ 
-            "0b3c9c87-5620-456f-9333-e4362d961e59"
+            "4f05e535-c020-4bc6-b1da-a1ee1e3c4f5f"
          ], 
          "item" : { 
             "class" : "Item", 
@@ -1028,11 +1288,72 @@
          }, 
          "objectName" : "Player"
       }, 
+      "4f05e535-c020-4bc6-b1da-a1ee1e3c4f5f" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "479", 
+            "y" : "798"
+         }, 
+         "child" : [ 
+            "3565d842-458b-4dc7-ba2b-b369a8d16ca5", 
+            "b239e0dd-b9c6-42fd-aa38-624ce696c410"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Flask_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "3565d842-458b-4dc7-ba2b-b369a8d16ca5" : { 
+         "class" : "InventoryRemoveItemNode", 
+         "desc" : { 
+            "x" : "461", 
+            "y" : "917"
+         }, 
+         "child" : [ 
+            "c3961916-6a31-4ce4-adea-3244db6eb416"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Flask_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "c3961916-6a31-4ce4-adea-3244db6eb416" : { 
+         "class" : "InventoryAddItemNode", 
+         "desc" : { 
+            "x" : "474", 
+            "y" : "1048"
+         }, 
+         "child" : [ 
+            "48f3cf76-3468-4d5b-bffc-a809a885a157"
+         ], 
+         "item" : { 
+            "class" : "Item", 
+            "count" : "1", 
+            "proto" : "Flask_Empty"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "48f3cf76-3468-4d5b-bffc-a809a885a157" : { 
+         "class" : "CharacterAddEffectNode", 
+         "desc" : { 
+            "x" : "446", 
+            "y" : "1150"
+         }, 
+         "child" : [ 
+            "0b3c9c87-5620-456f-9333-e4362d961e59"
+         ], 
+         "proto" : "water3", 
+         "objectName" : "$TEAM$"
+      }, 
       "0b3c9c87-5620-456f-9333-e4362d961e59" : { 
          "class" : "CharacterAddEffectNode", 
          "desc" : { 
-            "x" : "578", 
-            "y" : "1037"
+            "x" : "479", 
+            "y" : "1273"
          }, 
          "child" : [ 
             "ab734a88-edf0-45cb-a291-f23532623be0"
@@ -1043,8 +1364,8 @@
       "ab734a88-edf0-45cb-a291-f23532623be0" : { 
          "class" : "DialogPhraseNode", 
          "desc" : { 
-            "x" : "585", 
-            "y" : "1137"
+            "x" : "493", 
+            "y" : "1401"
          }, 
          "child" : [ 
             "3c92735a-2793-40fa-991c-33e3486ec658", 
@@ -1052,20 +1373,185 @@
          ], 
          "text" : "#Cooker.ab734a88-edf0-45cb-a291-f23532623be0"
       }, 
-      "bd761442-5229-46f2-b1fc-31f6d9c35e57" : { 
+      "b239e0dd-b9c6-42fd-aa38-624ce696c410" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "622", 
+            "y" : "809"
+         }, 
+         "child" : [ 
+            "882d750f-0d75-4184-80ae-204ac38c34e4", 
+            "ce12cccf-6c73-4f0b-91c4-17da7bcf14de"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "882d750f-0d75-4184-80ae-204ac38c34e4" : { 
+         "class" : "InventoryRemoveItemNode", 
+         "desc" : { 
+            "x" : "669", 
+            "y" : "941"
+         }, 
+         "child" : [ 
+            "39ab137b-31af-4591-b5e7-c68d35914759"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "39ab137b-31af-4591-b5e7-c68d35914759" : { 
+         "class" : "InventoryAddItemNode", 
+         "desc" : { 
+            "x" : "605", 
+            "y" : "1052"
+         }, 
+         "child" : [ 
+            "0eea922c-495f-47dc-b83c-358d2aa032c4"
+         ], 
+         "item" : { 
+            "class" : "Item", 
+            "count" : "1", 
+            "proto" : "Bottle_Empty"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "0eea922c-495f-47dc-b83c-358d2aa032c4" : { 
+         "class" : "CharacterAddEffectNode", 
+         "desc" : { 
+            "x" : "630", 
+            "y" : "1163"
+         }, 
+         "child" : [ 
+            "0b3c9c87-5620-456f-9333-e4362d961e59"
+         ], 
+         "proto" : "Water", 
+         "objectName" : "$TEAM$"
+      }, 
+      "ce12cccf-6c73-4f0b-91c4-17da7bcf14de" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "761", 
+            "y" : "792"
+         }, 
+         "child" : [ 
+            "13666caf-c251-45ac-bca6-3c3071573796", 
+            "8899f5d1-0895-4ddf-ab7f-87c10e1f15e0"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Water2"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "13666caf-c251-45ac-bca6-3c3071573796" : { 
+         "class" : "InventoryRemoveItemNode", 
+         "desc" : { 
+            "x" : "738", 
+            "y" : "1051"
+         }, 
+         "child" : [ 
+            "138e81bc-2ac1-458c-baa5-a4da591ba1ff"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Water2"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "138e81bc-2ac1-458c-baa5-a4da591ba1ff" : { 
+         "class" : "InventoryAddItemNode", 
+         "desc" : { 
+            "x" : "820", 
+            "y" : "1161"
+         }, 
+         "child" : [ 
+            "542335ea-7d6a-4a1e-8344-026181865e85"
+         ], 
+         "item" : { 
+            "class" : "Item", 
+            "count" : "1", 
+            "proto" : "Bottle_Empty2"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "542335ea-7d6a-4a1e-8344-026181865e85" : { 
+         "class" : "CharacterAddEffectNode", 
+         "desc" : { 
+            "x" : "674", 
+            "y" : "1283"
+         }, 
+         "child" : [ 
+            "0b3c9c87-5620-456f-9333-e4362d961e59"
+         ], 
+         "proto" : "water2", 
+         "objectName" : "$TEAM$"
+      }, 
+      "8899f5d1-0895-4ddf-ab7f-87c10e1f15e0" : { 
          "class" : "DummyNode", 
          "desc" : { 
-            "x" : "1000", 
-            "y" : "446"
+            "x" : "818", 
+            "y" : "900"
          }, 
          "child" : [ 
          ]
       }, 
+      "bd761442-5229-46f2-b1fc-31f6d9c35e57" : { 
+         "class" : "DummyNode", 
+         "desc" : { 
+            "x" : "898", 
+            "y" : "448"
+         }, 
+         "child" : [ 
+         ]
+      }, 
+      "de151173-9ad1-412c-80c9-b663037f6cd0" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "800", 
+            "y" : "24"
+         }, 
+         "child" : [ 
+            "7a8a21c0-07d3-4b11-99b6-a038a5f4b540", 
+            "08bf4de5-b99f-4364-ae13-f5d2665f74ba"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "08bf4de5-b99f-4364-ae13-f5d2665f74ba" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "974", 
+            "y" : "24"
+         }, 
+         "child" : [ 
+            "7a8a21c0-07d3-4b11-99b6-a038a5f4b540", 
+            "85174a87-3b8e-4392-bb3f-346c5e4eaa20"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Water2"
+         }, 
+         "objectName" : "Player"
+      }, 
       "85174a87-3b8e-4392-bb3f-346c5e4eaa20" : { 
          "class" : "DummyNode", 
          "desc" : { 
-            "x" : "968", 
-            "y" : "150"
+            "x" : "664", 
+            "y" : "-72"
          }, 
          "child" : [ 
          ]
@@ -1073,17 +1559,34 @@
       "731221a7-84c6-4fc0-a426-ceab7fdfafa8" : { 
          "class" : "InventoryHasItemNode", 
          "desc" : { 
-            "x" : "1162", 
-            "y" : "16"
+            "x" : "1108", 
+            "y" : "-247"
          }, 
          "child" : [ 
-            "73e54845-9938-4480-aee3-8661090f461b", 
+            "4f11ae4e-c988-47a8-a406-18ec3593227d", 
             "291e8ce9-088e-4b96-803a-3378c936efd3"
          ], 
          "item" : { 
             "class" : "Item", 
             "count" : "1", 
             "proto" : "Herbal"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "4f11ae4e-c988-47a8-a406-18ec3593227d" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "1165", 
+            "y" : "-36"
+         }, 
+         "child" : [ 
+            "73e54845-9938-4480-aee3-8661090f461b", 
+            "be9d191e-51f3-410b-bfa0-c0110789a71e"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Flask_Watter"
          }, 
          "objectName" : "Player"
       }, 
@@ -1103,8 +1606,8 @@
       "fd69697c-1130-48de-814d-dd26dd7fdfc4" : { 
          "class" : "CompareKeyValueNode", 
          "desc" : { 
-            "x" : "1144", 
-            "y" : "216"
+            "x" : "1292", 
+            "y" : "122"
          }, 
          "child" : [ 
             "bbfe4a96-db69-4b65-98b5-da7479e7a25c", 
@@ -1117,8 +1620,8 @@
       "bbfe4a96-db69-4b65-98b5-da7479e7a25c" : { 
          "class" : "CompareKeyValueNode", 
          "desc" : { 
-            "x" : "1046", 
-            "y" : "330"
+            "x" : "1058", 
+            "y" : "246"
          }, 
          "child" : [ 
             "3a25680b-6d3b-45fa-adaa-404df57ee003", 
@@ -1131,8 +1634,8 @@
       "3a25680b-6d3b-45fa-adaa-404df57ee003" : { 
          "class" : "DialogAnswerNode", 
          "desc" : { 
-            "x" : "1038", 
-            "y" : "608"
+            "x" : "1018", 
+            "y" : "381"
          }, 
          "child" : [ 
             "74ec65f5-ab8e-4f4b-874d-cd36e8992caf"
@@ -1142,8 +1645,8 @@
       "74ec65f5-ab8e-4f4b-874d-cd36e8992caf" : { 
          "class" : "DialogPhraseNode", 
          "desc" : { 
-            "x" : "974", 
-            "y" : "723"
+            "x" : "1250", 
+            "y" : "370"
          }, 
          "child" : [ 
             "8ad1d903-2c30-4394-baf4-84ae6dfdbddb", 
@@ -1155,22 +1658,33 @@
       "8ad1d903-2c30-4394-baf4-84ae6dfdbddb" : { 
          "class" : "DialogAnswerNode", 
          "desc" : { 
-            "x" : "857", 
-            "y" : "830"
+            "x" : "1021", 
+            "y" : "483"
+         }, 
+         "child" : [ 
+            "796e40a8-e8cc-40f4-8dcb-6e48773504e5"
+         ], 
+         "text" : "#Cooker.8ad1d903-2c30-4394-baf4-84ae6dfdbddb"
+      }, 
+      "796e40a8-e8cc-40f4-8dcb-6e48773504e5" : { 
+         "class" : "AddExpNode", 
+         "desc" : { 
+            "x" : "1001", 
+            "y" : "561"
          }, 
          "child" : [ 
             "7ef14414-fcfd-41b4-a2ee-1e2a9bf4648c"
          ], 
-         "text" : "#Cooker.8ad1d903-2c30-4394-baf4-84ae6dfdbddb"
+         "exp" : "10"
       }, 
       "7ef14414-fcfd-41b4-a2ee-1e2a9bf4648c" : { 
          "class" : "InventoryRemoveItemNode", 
          "desc" : { 
-            "x" : "898", 
-            "y" : "908"
+            "x" : "1140", 
+            "y" : "553"
          }, 
          "child" : [ 
-            "796e40a8-e8cc-40f4-8dcb-6e48773504e5"
+            "e7050732-2d96-478c-8378-c85819180e40"
          ], 
          "item" : { 
             "class" : "Item", 
@@ -1179,33 +1693,83 @@
          }, 
          "objectName" : "Player"
       }, 
-      "796e40a8-e8cc-40f4-8dcb-6e48773504e5" : { 
-         "class" : "AddExpNode", 
-         "desc" : { 
-            "x" : "1199", 
-            "y" : "921"
-         }, 
-         "child" : [ 
-            "e7050732-2d96-478c-8378-c85819180e40"
-         ], 
-         "exp" : "10"
-      }, 
       "e7050732-2d96-478c-8378-c85819180e40" : { 
          "class" : "RandomNode", 
          "desc" : { 
-            "x" : "1200", 
-            "y" : "1000"
+            "x" : "1169", 
+            "y" : "668"
          }, 
          "child" : [ 
-            "a1c1b48a-cd99-4741-89fd-a822b1254110", 
-            "500e788e-c496-4eb9-a87e-eed5e1f1e9fa"
+            "72323e93-55ba-4263-8715-a52eabf80a8a", 
+            "9b9a5a22-15ab-4880-80d1-3776cd6be728"
          ]
+      }, 
+      "72323e93-55ba-4263-8715-a52eabf80a8a" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "1015", 
+            "y" : "724"
+         }, 
+         "child" : [ 
+            "57daf71f-5db5-4854-9dfd-05c2b7abd341", 
+            "a79fb6ca-8df2-4fe4-81ff-ed51ee839060"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Flask_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "57daf71f-5db5-4854-9dfd-05c2b7abd341" : { 
+         "class" : "InventoryRemoveItemNode", 
+         "desc" : { 
+            "x" : "997", 
+            "y" : "843"
+         }, 
+         "child" : [ 
+            "01a815c6-ce4e-4cbb-96cf-34d7909c1d84"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Flask_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "01a815c6-ce4e-4cbb-96cf-34d7909c1d84" : { 
+         "class" : "InventoryAddItemNode", 
+         "desc" : { 
+            "x" : "1010", 
+            "y" : "974"
+         }, 
+         "child" : [ 
+            "922eb7b4-4e89-48b4-b14a-842e531048d0"
+         ], 
+         "item" : { 
+            "class" : "Item", 
+            "count" : "1", 
+            "proto" : "Flask_Empty"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "922eb7b4-4e89-48b4-b14a-842e531048d0" : { 
+         "class" : "CharacterAddEffectNode", 
+         "desc" : { 
+            "x" : "982", 
+            "y" : "1076"
+         }, 
+         "child" : [ 
+            "a1c1b48a-cd99-4741-89fd-a822b1254110"
+         ], 
+         "proto" : "water3", 
+         "objectName" : "$TEAM$"
       }, 
       "a1c1b48a-cd99-4741-89fd-a822b1254110" : { 
          "class" : "CharacterAddEffectNode", 
          "desc" : { 
-            "x" : "1044", 
-            "y" : "1075"
+            "x" : "897", 
+            "y" : "1280"
          }, 
          "child" : [ 
             "4fac82b1-3bed-4cd8-99eb-d68e22da77f4"
@@ -1216,8 +1780,8 @@
       "4fac82b1-3bed-4cd8-99eb-d68e22da77f4" : { 
          "class" : "DialogPhraseNode", 
          "desc" : { 
-            "x" : "937", 
-            "y" : "1175"
+            "x" : "745", 
+            "y" : "1398"
          }, 
          "child" : [ 
             "3c92735a-2793-40fa-991c-33e3486ec658", 
@@ -1225,11 +1789,191 @@
          ], 
          "text" : "#Campfire.4fac82b1-3bed-4cd8-99eb-d68e22da77f4"
       }, 
+      "a79fb6ca-8df2-4fe4-81ff-ed51ee839060" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "1158", 
+            "y" : "735"
+         }, 
+         "child" : [ 
+            "639a844b-101a-4ed3-af41-0c8a30bf9f31", 
+            "299b12fe-8cdb-405a-8cce-7c21d5499bb2"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "639a844b-101a-4ed3-af41-0c8a30bf9f31" : { 
+         "class" : "InventoryRemoveItemNode", 
+         "desc" : { 
+            "x" : "1205", 
+            "y" : "867"
+         }, 
+         "child" : [ 
+            "1dffd713-3f05-485a-a74e-e32450a63916"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "1dffd713-3f05-485a-a74e-e32450a63916" : { 
+         "class" : "InventoryAddItemNode", 
+         "desc" : { 
+            "x" : "1141", 
+            "y" : "978"
+         }, 
+         "child" : [ 
+            "dfa37ea2-0bf6-4c99-9854-08db8f50db11"
+         ], 
+         "item" : { 
+            "class" : "Item", 
+            "count" : "1", 
+            "proto" : "Bottle_Empty"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "dfa37ea2-0bf6-4c99-9854-08db8f50db11" : { 
+         "class" : "CharacterAddEffectNode", 
+         "desc" : { 
+            "x" : "1166", 
+            "y" : "1089"
+         }, 
+         "child" : [ 
+            "a1c1b48a-cd99-4741-89fd-a822b1254110"
+         ], 
+         "proto" : "Water", 
+         "objectName" : "$TEAM$"
+      }, 
+      "299b12fe-8cdb-405a-8cce-7c21d5499bb2" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "1297", 
+            "y" : "718"
+         }, 
+         "child" : [ 
+            "9ee73728-b924-418d-8340-81821d8cbee4", 
+            "ed258fee-fcdf-4994-ae55-75c34b51f9bb"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Water2"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "9ee73728-b924-418d-8340-81821d8cbee4" : { 
+         "class" : "InventoryRemoveItemNode", 
+         "desc" : { 
+            "x" : "1274", 
+            "y" : "977"
+         }, 
+         "child" : [ 
+            "3ebdecd5-dcd5-4864-9646-d704ff12c08d"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Water2"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "3ebdecd5-dcd5-4864-9646-d704ff12c08d" : { 
+         "class" : "InventoryAddItemNode", 
+         "desc" : { 
+            "x" : "1356", 
+            "y" : "1087"
+         }, 
+         "child" : [ 
+            "c950abc9-b981-4545-89b6-a9ce475251c4"
+         ], 
+         "item" : { 
+            "class" : "Item", 
+            "count" : "1", 
+            "proto" : "Bottle_Empty2"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "c950abc9-b981-4545-89b6-a9ce475251c4" : { 
+         "class" : "CharacterAddEffectNode", 
+         "desc" : { 
+            "x" : "1279", 
+            "y" : "1179"
+         }, 
+         "child" : [ 
+            "a1c1b48a-cd99-4741-89fd-a822b1254110"
+         ], 
+         "proto" : "water2", 
+         "objectName" : "$TEAM$"
+      }, 
+      "ed258fee-fcdf-4994-ae55-75c34b51f9bb" : { 
+         "class" : "DummyNode", 
+         "desc" : { 
+            "x" : "1354", 
+            "y" : "826"
+         }, 
+         "child" : [ 
+         ]
+      }, 
+      "9b9a5a22-15ab-4880-80d1-3776cd6be728" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "1080", 
+            "y" : "1305"
+         }, 
+         "child" : [ 
+            "709eb973-fcb3-4ba5-87a0-883369f381eb", 
+            "36c1285c-ba43-4ded-8e42-88f6db3299c1"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Flask_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "709eb973-fcb3-4ba5-87a0-883369f381eb" : { 
+         "class" : "InventoryRemoveItemNode", 
+         "desc" : { 
+            "x" : "1062", 
+            "y" : "1424"
+         }, 
+         "child" : [ 
+            "cdf9f946-78b4-4d98-b899-52b5e7997ef4"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Flask_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "cdf9f946-78b4-4d98-b899-52b5e7997ef4" : { 
+         "class" : "InventoryAddItemNode", 
+         "desc" : { 
+            "x" : "1075", 
+            "y" : "1555"
+         }, 
+         "child" : [ 
+            "500e788e-c496-4eb9-a87e-eed5e1f1e9fa"
+         ], 
+         "item" : { 
+            "class" : "Item", 
+            "count" : "1", 
+            "proto" : "Flask_Empty"
+         }, 
+         "objectName" : "Player"
+      }, 
       "500e788e-c496-4eb9-a87e-eed5e1f1e9fa" : { 
          "class" : "CharacterAddEffectNode", 
          "desc" : { 
-            "x" : "1235", 
-            "y" : "1080"
+            "x" : "1099", 
+            "y" : "1708"
          }, 
          "child" : [ 
             "21353485-5052-45a4-a039-2abef7582d24"
@@ -1240,8 +1984,8 @@
       "21353485-5052-45a4-a039-2abef7582d24" : { 
          "class" : "DialogPhraseNode", 
          "desc" : { 
-            "x" : "1196", 
-            "y" : "1190"
+            "x" : "781", 
+            "y" : "1622"
          }, 
          "child" : [ 
             "3c92735a-2793-40fa-991c-33e3486ec658", 
@@ -1249,20 +1993,161 @@
          ], 
          "text" : "#Campfire.368f6b5f-c12c-42a7-93b6-a36d0021275f"
       }, 
-      "5f05402a-319e-4a6e-9c72-339519762cea" : { 
+      "36c1285c-ba43-4ded-8e42-88f6db3299c1" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "1223", 
+            "y" : "1316"
+         }, 
+         "child" : [ 
+            "d64ce1d5-38cd-4863-a7fc-b2dda2ee5345", 
+            "30059b6c-7673-4acf-9afc-adccb2453e67"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "d64ce1d5-38cd-4863-a7fc-b2dda2ee5345" : { 
+         "class" : "InventoryRemoveItemNode", 
+         "desc" : { 
+            "x" : "1270", 
+            "y" : "1448"
+         }, 
+         "child" : [ 
+            "8e0debcb-00b5-4f53-bab2-865eed09e3e4"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "8e0debcb-00b5-4f53-bab2-865eed09e3e4" : { 
+         "class" : "InventoryAddItemNode", 
+         "desc" : { 
+            "x" : "1206", 
+            "y" : "1559"
+         }, 
+         "child" : [ 
+            "500e788e-c496-4eb9-a87e-eed5e1f1e9fa"
+         ], 
+         "item" : { 
+            "class" : "Item", 
+            "count" : "1", 
+            "proto" : "Bottle_Empty"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "30059b6c-7673-4acf-9afc-adccb2453e67" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "1362", 
+            "y" : "1299"
+         }, 
+         "child" : [ 
+            "e72b48e4-7e7d-4d9d-b4e9-4ad9494c5f9e", 
+            "09ccd854-80c9-4d9e-a39c-7c55d10d2b0a"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Water2"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "e72b48e4-7e7d-4d9d-b4e9-4ad9494c5f9e" : { 
+         "class" : "InventoryRemoveItemNode", 
+         "desc" : { 
+            "x" : "1339", 
+            "y" : "1558"
+         }, 
+         "child" : [ 
+            "8db9f370-76b8-49f8-91c0-5bc61ef08bd7"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Water2"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "8db9f370-76b8-49f8-91c0-5bc61ef08bd7" : { 
+         "class" : "InventoryAddItemNode", 
+         "desc" : { 
+            "x" : "1294", 
+            "y" : "1685"
+         }, 
+         "child" : [ 
+            "500e788e-c496-4eb9-a87e-eed5e1f1e9fa"
+         ], 
+         "item" : { 
+            "class" : "Item", 
+            "count" : "1", 
+            "proto" : "Bottle_Empty2"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "09ccd854-80c9-4d9e-a39c-7c55d10d2b0a" : { 
          "class" : "DummyNode", 
          "desc" : { 
-            "x" : "1344", 
-            "y" : "456"
+            "x" : "1419", 
+            "y" : "1407"
          }, 
          "child" : [ 
          ]
       }, 
+      "5f05402a-319e-4a6e-9c72-339519762cea" : { 
+         "class" : "DummyNode", 
+         "desc" : { 
+            "x" : "1364", 
+            "y" : "292"
+         }, 
+         "child" : [ 
+         ]
+      }, 
+      "be9d191e-51f3-410b-bfa0-c0110789a71e" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "1339", 
+            "y" : "-38"
+         }, 
+         "child" : [ 
+            "73e54845-9938-4480-aee3-8661090f461b", 
+            "96802945-65c5-462f-a276-26ef8a25c03e"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Watter"
+         }, 
+         "objectName" : "Player"
+      }, 
+      "96802945-65c5-462f-a276-26ef8a25c03e" : { 
+         "class" : "InventoryHasItemNode", 
+         "desc" : { 
+            "x" : "1513", 
+            "y" : "-38"
+         }, 
+         "child" : [ 
+            "73e54845-9938-4480-aee3-8661090f461b", 
+            "291e8ce9-088e-4b96-803a-3378c936efd3"
+         ], 
+         "item" : { 
+            "class" : "Consumable", 
+            "count" : "1", 
+            "proto" : "Bottle_Water2"
+         }, 
+         "objectName" : "Player"
+      }, 
       "291e8ce9-088e-4b96-803a-3378c936efd3" : { 
          "class" : "DummyNode", 
          "desc" : { 
-            "x" : "1304", 
-            "y" : "182"
+            "x" : "1293", 
+            "y" : "-118"
          }, 
          "child" : [ 
          ]
@@ -1270,8 +2155,8 @@
       "bc3af2b6-d4c8-41fb-b614-af053ad1d6b3" : { 
          "class" : "InventoryHasItemNode", 
          "desc" : { 
-            "x" : "1516", 
-            "y" : "36"
+            "x" : "1716", 
+            "y" : "-46"
          }, 
          "child" : [ 
             "7c82d373-357e-4bdd-8315-97783954cb3c", 
@@ -1287,8 +2172,8 @@
       "7c82d373-357e-4bdd-8315-97783954cb3c" : { 
          "class" : "MathKeyValueNode", 
          "desc" : { 
-            "x" : "1496", 
-            "y" : "148"
+            "x" : "1711", 
+            "y" : "115"
          }, 
          "child" : [ 
             "5a550c06-51c3-4495-9b1a-69fdac568b3f"
@@ -1300,8 +2185,8 @@
       "5a550c06-51c3-4495-9b1a-69fdac568b3f" : { 
          "class" : "CompareKeyValueNode", 
          "desc" : { 
-            "x" : "1478", 
-            "y" : "234"
+            "x" : "1559", 
+            "y" : "209"
          }, 
          "child" : [ 
             "6aaebd46-5bdf-4203-8c51-c4235b7cd895", 
@@ -1314,8 +2199,8 @@
       "6aaebd46-5bdf-4203-8c51-c4235b7cd895" : { 
          "class" : "CompareKeyValueNode", 
          "desc" : { 
-            "x" : "1440", 
-            "y" : "354"
+            "x" : "1477", 
+            "y" : "356"
          }, 
          "child" : [ 
             "bf9235e5-3db1-4d1e-88c8-26717363ba59", 
@@ -1328,8 +2213,8 @@
       "bf9235e5-3db1-4d1e-88c8-26717363ba59" : { 
          "class" : "DialogAnswerNode", 
          "desc" : { 
-            "x" : "1431", 
-            "y" : "610"
+            "x" : "1498", 
+            "y" : "506"
          }, 
          "child" : [ 
             "0021e95a-dcc8-4408-a89d-c91d2240625e"
@@ -1339,8 +2224,8 @@
       "0021e95a-dcc8-4408-a89d-c91d2240625e" : { 
          "class" : "DialogPhraseNode", 
          "desc" : { 
-            "x" : "1483", 
-            "y" : "715"
+            "x" : "1560", 
+            "y" : "585"
          }, 
          "child" : [ 
             "d2864350-9c35-476a-8b5c-ac5ed2a0daaa", 
@@ -1352,8 +2237,8 @@
       "d2864350-9c35-476a-8b5c-ac5ed2a0daaa" : { 
          "class" : "DialogAnswerNode", 
          "desc" : { 
-            "x" : "1409", 
-            "y" : "853"
+            "x" : "1497", 
+            "y" : "784"
          }, 
          "child" : [ 
             "eb5d598b-c1f1-423b-8d5a-6c5dca448ce3"
@@ -1363,8 +2248,8 @@
       "eb5d598b-c1f1-423b-8d5a-6c5dca448ce3" : { 
          "class" : "InventoryRemoveItemNode", 
          "desc" : { 
-            "x" : "1651", 
-            "y" : "911"
+            "x" : "1569", 
+            "y" : "868"
          }, 
          "child" : [ 
             "e1f1041b-1bea-4a05-a388-c2808f04ee90"
@@ -1379,8 +2264,8 @@
       "e1f1041b-1bea-4a05-a388-c2808f04ee90" : { 
          "class" : "AddExpNode", 
          "desc" : { 
-            "x" : "1609", 
-            "y" : "986"
+            "x" : "1704", 
+            "y" : "1006"
          }, 
          "child" : [ 
             "7cf0c4b0-0991-4ff4-9423-5c1446401932"
@@ -1390,8 +2275,8 @@
       "7cf0c4b0-0991-4ff4-9423-5c1446401932" : { 
          "class" : "InventoryAddItemNode", 
          "desc" : { 
-            "x" : "1450", 
-            "y" : "991"
+            "x" : "1564", 
+            "y" : "994"
          }, 
          "child" : [ 
             "2792e9b5-35aa-4718-90ce-f80a3d767f66"
@@ -1418,8 +2303,8 @@
       "89130327-3eb1-4a25-ac34-d83e9bc3725b" : { 
          "class" : "DialogPhraseNode", 
          "desc" : { 
-            "x" : "1493", 
-            "y" : "1205"
+            "x" : "1507", 
+            "y" : "1184"
          }, 
          "child" : [ 
             "e7f003da-db1f-401b-b818-0e70aa1032ce", 
@@ -1430,8 +2315,8 @@
       "a805fec8-3a5c-4981-a21b-8e3281223830" : { 
          "class" : "DummyNode", 
          "desc" : { 
-            "x" : "1676", 
-            "y" : "474"
+            "x" : "1743", 
+            "y" : "492"
          }, 
          "child" : [ 
          ]
@@ -1439,8 +2324,8 @@
       "64d884cc-446b-425d-b45a-23daf454eac6" : { 
          "class" : "DummyNode", 
          "desc" : { 
-            "x" : "1650", 
-            "y" : "196"
+            "x" : "1771", 
+            "y" : "70"
          }, 
          "child" : [ 
          ]
@@ -1553,8 +2438,8 @@
       "45937f35-c2a8-486e-b115-bdc50a124a4c" : { 
          "class" : "AddExpNode", 
          "desc" : { 
-            "x" : "1777", 
-            "y" : "1217"
+            "x" : "1739", 
+            "y" : "1208"
          }, 
          "child" : [ 
             "4c4dd7a2-2845-4ef8-af7e-ab5c1b5ed04b"
@@ -1564,8 +2449,8 @@
       "4c4dd7a2-2845-4ef8-af7e-ab5c1b5ed04b" : { 
          "class" : "InventoryRemoveItemNode", 
          "desc" : { 
-            "x" : "1634", 
-            "y" : "1329"
+            "x" : "1695", 
+            "y" : "1305"
          }, 
          "child" : [ 
             "4739f9fa-c711-4ed6-b731-5504b6288da2"
@@ -1580,8 +2465,8 @@
       "4739f9fa-c711-4ed6-b731-5504b6288da2" : { 
          "class" : "CharacterAddEffectNode", 
          "desc" : { 
-            "x" : "1456", 
-            "y" : "1442"
+            "x" : "1960", 
+            "y" : "1490"
          }, 
          "child" : [ 
             "3fd02cd2-1202-4810-85e3-9046fc72c9d9"
@@ -1736,8 +2621,8 @@
       "2d4e6b65-a456-4a5c-b6b7-1475e74475a4" : { 
          "class" : "DialogAnswerNode", 
          "desc" : { 
-            "x" : "1815", 
-            "y" : "1361"
+            "x" : "1923", 
+            "y" : "1360"
          }, 
          "child" : [ 
             "95cbde67-852d-4fa8-9831-290575f2aae0"
@@ -2188,8 +3073,8 @@
       "62923a8a-b19c-496e-acb1-91040a989645" : { 
          "class" : "CompareKeyValueNode", 
          "desc" : { 
-            "x" : "1182", 
-            "y" : "-308"
+            "x" : "1237", 
+            "y" : "-389"
          }, 
          "child" : [ 
             "a6c56554-c590-4cf4-a6f0-e7616ee44310", 
@@ -2202,8 +3087,8 @@
       "a6c56554-c590-4cf4-a6f0-e7616ee44310" : { 
          "class" : "DialogAnswerNode", 
          "desc" : { 
-            "x" : "1092", 
-            "y" : "-160"
+            "x" : "938", 
+            "y" : "-528"
          }, 
          "child" : [ 
             "991bdb96-c302-48ae-9fd7-f669572a0568"
