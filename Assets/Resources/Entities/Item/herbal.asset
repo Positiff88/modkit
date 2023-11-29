@@ -16,7 +16,7 @@ MonoBehaviour:
     path: Entities/Item/Herbal
   m_Localization: item.herbal
   Takeable: 1
-  Cost: 20
+  Cost: 15
   Weight: 50
   Collectable: 1
   Modifiers: []

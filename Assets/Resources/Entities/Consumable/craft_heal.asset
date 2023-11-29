@@ -10,23 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1333377599, guid: ba80931603c2dbc40ab113c533efa2ed, type: 3}
-  m_Name: stew
+  m_Name: craft_heal
   m_EditorClassIdentifier: 
   Icon:
-    path: Entities/Consumable/Stew
-  m_Localization: consumable.stew
+    path: Entities/Consumable/Craft_Heal
+  m_Localization: consumable.craft_heal
   Takeable: 1
-  Cost: 30
-  Weight: 525
+  Cost: 21
+  Weight: 30
   Collectable: 1
   Modifiers: []
   _effects:
-  - path: entities/effect/stew
-  canUseInBattle: 0
+  - path: entities/effect/craft_heal
+  canUseInBattle: 1
   waste:
-    path: entities/item/stew_empty
+    path: 
   useSounds:
-  - path: Sounds/SFX/Misc/Eating/eating_canfood
+  - path: Sounds/SFX/Misc/CraftHeal
   UseAP: 2
   UseDistance: 1
   Perks: 0

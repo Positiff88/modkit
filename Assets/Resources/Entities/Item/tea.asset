@@ -16,7 +16,7 @@ MonoBehaviour:
     path: Entities/Item/Tea
   m_Localization: item.tea
   Takeable: 1
-  Cost: 40
+  Cost: 45
   Weight: 160
   Collectable: 1
   Modifiers: []
