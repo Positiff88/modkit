@@ -341,8 +341,8 @@
       "3fd02cd2-1202-4810-85e3-9046fc72c9d9" : { 
          "class" : "PlaySoundNode", 
          "desc" : { 
-            "x" : "1925", 
-            "y" : "2144"
+            "x" : "1929", 
+            "y" : "2025"
          }, 
          "child" : [ 
             "b2b40550-99f6-4718-8c22-d11e5a405326"
@@ -354,8 +354,8 @@
       "b2b40550-99f6-4718-8c22-d11e5a405326" : { 
          "class" : "DialogAnswerNode", 
          "desc" : { 
-            "x" : "1935", 
-            "y" : "2217"
+            "x" : "1939", 
+            "y" : "2098"
          }, 
          "child" : [ 
             "c95fb566-f1e4-43a5-a508-6344d4a59f32"
@@ -365,8 +365,8 @@
       "c95fb566-f1e4-43a5-a508-6344d4a59f32" : { 
          "class" : "DummyNode", 
          "desc" : { 
-            "x" : "1990", 
-            "y" : "2289"
+            "x" : "1994", 
+            "y" : "2170"
          }, 
          "child" : [ 
             "8221cd64-a1fd-44c6-942c-ef01f8feb030"
@@ -794,7 +794,7 @@
          "item" : { 
             "class" : "Consumable", 
             "count" : "1", 
-            "proto" : "flask_watter"
+            "proto" : "Flask_Watter"
          }, 
          "objectName" : "Player"
       }, 
@@ -914,7 +914,7 @@
          "item" : { 
             "class" : "Consumable", 
             "count" : "1", 
-            "proto" : "flask_watter"
+            "proto" : "Flask_Watter"
          }, 
          "objectName" : "Player"
       }, 
@@ -930,7 +930,7 @@
          "item" : { 
             "class" : "Consumable", 
             "count" : "1", 
-            "proto" : "flask_watter"
+            "proto" : "Flask_Watter"
          }, 
          "objectName" : "Player"
       }, 
@@ -946,7 +946,7 @@
          "item" : { 
             "class" : "Item", 
             "count" : "1", 
-            "proto" : "flask_empty"
+            "proto" : "Flask_Empty"
          }, 
          "objectName" : "Player"
       }, 
@@ -1012,7 +1012,7 @@
          "item" : { 
             "class" : "Consumable", 
             "count" : "1", 
-            "proto" : "bottle_watter"
+            "proto" : "Bottle_Watter"
          }, 
          "objectName" : "Player"
       }, 
@@ -1028,7 +1028,7 @@
          "item" : { 
             "class" : "Consumable", 
             "count" : "1", 
-            "proto" : "bottle_watter"
+            "proto" : "Bottle_Watter"
          }, 
          "objectName" : "Player"
       }, 
@@ -1044,7 +1044,7 @@
          "item" : { 
             "class" : "Item", 
             "count" : "1", 
-            "proto" : "bottle_empty"
+            "proto" : "Bottle_Empty"
          }, 
          "objectName" : "Player"
       }, 
@@ -1057,7 +1057,7 @@
          "child" : [ 
             "887c3b00-87fb-41c3-9af6-bfbd29c8495d"
          ], 
-         "proto" : "water", 
+         "proto" : "Water", 
          "objectName" : "$TEAM$"
       }, 
       "6487b5d4-8897-4b95-ac68-72dad232ea14" : { 
@@ -1073,7 +1073,7 @@
          "item" : { 
             "class" : "Consumable", 
             "count" : "1", 
-            "proto" : "bottle_water2"
+            "proto" : "Bottle_Water2"
          }, 
          "objectName" : "Player"
       }, 
@@ -1089,7 +1089,7 @@
          "item" : { 
             "class" : "Consumable", 
             "count" : "1", 
-            "proto" : "bottle_water2"
+            "proto" : "Bottle_Water2"
          }, 
          "objectName" : "Player"
       }, 
@@ -1105,7 +1105,7 @@
          "item" : { 
             "class" : "Item", 
             "count" : "1", 
-            "proto" : "bottle_empty2"
+            "proto" : "Bottle_Empty2"
          }, 
          "objectName" : "Player"
       }, 
@@ -1152,7 +1152,7 @@
          "item" : { 
             "class" : "Consumable", 
             "count" : "1", 
-            "proto" : "bottle_watter"
+            "proto" : "Bottle_Watter"
          }, 
          "objectName" : "Player"
       }, 
@@ -1169,7 +1169,7 @@
          "item" : { 
             "class" : "Consumable", 
             "count" : "1", 
-            "proto" : "bottle_water2"
+            "proto" : "Bottle_Water2"
          }, 
          "objectName" : "Player"
       }, 
@@ -1212,7 +1212,7 @@
          "item" : { 
             "class" : "Consumable", 
             "count" : "1", 
-            "proto" : "flask_watter"
+            "proto" : "Flask_Watter"
          }, 
          "objectName" : "Player"
       }, 
@@ -1557,7 +1557,7 @@
          "item" : { 
             "class" : "Consumable", 
             "count" : "1", 
-            "proto" : "bottle_watter"
+            "proto" : "Bottle_Watter"
          }, 
          "objectName" : "Player"
       }, 
@@ -1574,7 +1574,7 @@
          "item" : { 
             "class" : "Consumable", 
             "count" : "1", 
-            "proto" : "bottle_water2"
+            "proto" : "Bottle_Water2"
          }, 
          "objectName" : "Player"
       }, 
@@ -1617,7 +1617,7 @@
          "item" : { 
             "class" : "Consumable", 
             "count" : "1", 
-            "proto" : "flask_watter"
+            "proto" : "Flask_Watter"
          }, 
          "objectName" : "Player"
       }, 
@@ -2153,7 +2153,7 @@
          "item" : { 
             "class" : "Consumable", 
             "count" : "1", 
-            "proto" : "bottle_watter"
+            "proto" : "Bottle_Watter"
          }, 
          "objectName" : "Player"
       }, 
@@ -2170,7 +2170,7 @@
          "item" : { 
             "class" : "Consumable", 
             "count" : "1", 
-            "proto" : "bottle_water2"
+            "proto" : "Bottle_Water2"
          }, 
          "objectName" : "Player"
       }, 
@@ -2509,8 +2509,8 @@
       "4739f9fa-c711-4ed6-b731-5504b6288da2" : { 
          "class" : "CharacterAddEffectNode", 
          "desc" : { 
-            "x" : "1767", 
-            "y" : "1592"
+            "x" : "1794", 
+            "y" : "1600"
          }, 
          "child" : [ 
             "3fd02cd2-1202-4810-85e3-9046fc72c9d9"
@@ -2648,8 +2648,8 @@
       "4a2adc3e-0ff5-45d9-ace4-0166977112db" : { 
          "class" : "DialogPhraseNode", 
          "desc" : { 
-            "x" : "1925", 
-            "y" : "1579"
+            "x" : "1958", 
+            "y" : "1584"
          }, 
          "child" : [ 
             "fa7b2101-4d83-404c-b002-f9dd4335ee1a", 
@@ -2660,31 +2660,19 @@
       "fa7b2101-4d83-404c-b002-f9dd4335ee1a" : { 
          "class" : "AddExpNode", 
          "desc" : { 
-            "x" : "1914", 
-            "y" : "1709"
-         }, 
-         "child" : [ 
-            "8905cbf6-e94d-4020-9d8d-dce752ee44aa"
-         ], 
-         "exp" : "20"
-      }, 
-      "8905cbf6-e94d-4020-9d8d-dce752ee44aa" : { 
-         "class" : "HealNode", 
-         "desc" : { 
-            "x" : "1898", 
-            "y" : "1797"
+            "x" : "2023", 
+            "y" : "1781"
          }, 
          "child" : [ 
             "ae23580a-184a-4979-a6f8-852a0868c2f1"
          ], 
-         "hp" : "30", 
-         "withTeammate" : "true"
+         "exp" : "20"
       }, 
       "ae23580a-184a-4979-a6f8-852a0868c2f1" : { 
          "class" : "CharacterAddEffectNode", 
          "desc" : { 
-            "x" : "1853", 
-            "y" : "1997"
+            "x" : "2049", 
+            "y" : "1869"
          }, 
          "child" : [ 
             "3fd02cd2-1202-4810-85e3-9046fc72c9d9"
@@ -2806,8 +2794,8 @@
       "2ae0a96b-61a0-48c0-a973-4461965ace54" : { 
          "class" : "InventoryRemoveItemNode", 
          "desc" : { 
-            "x" : "2197", 
-            "y" : "1502"
+            "x" : "2208", 
+            "y" : "1433"
          }, 
          "child" : [ 
             "6dce7982-8633-455f-bc7d-fa7d468cfa1f"
@@ -2822,8 +2810,8 @@
       "6dce7982-8633-455f-bc7d-fa7d468cfa1f" : { 
          "class" : "DialogPhraseNode", 
          "desc" : { 
-            "x" : "2163", 
-            "y" : "1623"
+            "x" : "2201", 
+            "y" : "1580"
          }, 
          "child" : [ 
             "f3a7b5d7-cbb0-4c3e-9c65-dbb47a3e22d8", 
@@ -2834,31 +2822,19 @@
       "f3a7b5d7-cbb0-4c3e-9c65-dbb47a3e22d8" : { 
          "class" : "AddExpNode", 
          "desc" : { 
-            "x" : "2243", 
-            "y" : "1766"
-         }, 
-         "child" : [ 
-            "bd19ffeb-5f85-4074-84f4-d0a37bc326cb"
-         ], 
-         "exp" : "10"
-      }, 
-      "bd19ffeb-5f85-4074-84f4-d0a37bc326cb" : { 
-         "class" : "HealNode", 
-         "desc" : { 
-            "x" : "2243", 
-            "y" : "1867"
+            "x" : "2237", 
+            "y" : "1775"
          }, 
          "child" : [ 
             "49509bc8-9161-4ebf-9ab8-dabf4bb80bd7"
          ], 
-         "hp" : "25", 
-         "withTeammate" : "true"
+         "exp" : "10"
       }, 
       "49509bc8-9161-4ebf-9ab8-dabf4bb80bd7" : { 
          "class" : "CharacterAddEffectNode", 
          "desc" : { 
-            "x" : "2081", 
-            "y" : "2000"
+            "x" : "2221", 
+            "y" : "1869"
          }, 
          "child" : [ 
             "3fd02cd2-1202-4810-85e3-9046fc72c9d9"
@@ -2980,8 +2956,8 @@
       "ed295257-4426-4b6e-85d4-a0fd5a9ad8bd" : { 
          "class" : "InventoryRemoveItemNode", 
          "desc" : { 
-            "x" : "2515", 
-            "y" : "1525"
+            "x" : "2491", 
+            "y" : "1427"
          }, 
          "child" : [ 
             "7ee621da-7d8c-4ecb-ba59-aba72d3bf468"
@@ -2996,8 +2972,8 @@
       "7ee621da-7d8c-4ecb-ba59-aba72d3bf468" : { 
          "class" : "DialogPhraseNode", 
          "desc" : { 
-            "x" : "2498", 
-            "y" : "1652"
+            "x" : "2480", 
+            "y" : "1588"
          }, 
          "child" : [ 
             "3804b82c-f2e4-4567-befb-7a46c3edb457", 
@@ -3008,31 +2984,19 @@
       "3804b82c-f2e4-4567-befb-7a46c3edb457" : { 
          "class" : "AddExpNode", 
          "desc" : { 
-            "x" : "2562", 
-            "y" : "1789"
-         }, 
-         "child" : [ 
-            "a0526825-6d37-49e1-baab-b6d1d6a0aecb"
-         ], 
-         "exp" : "35"
-      }, 
-      "a0526825-6d37-49e1-baab-b6d1d6a0aecb" : { 
-         "class" : "HealNode", 
-         "desc" : { 
-            "x" : "2561", 
-            "y" : "1859"
+            "x" : "2468", 
+            "y" : "1707"
          }, 
          "child" : [ 
             "c6d76622-ec38-40f2-910f-0c1e0254076e"
          ], 
-         "hp" : "35", 
-         "withTeammate" : "true"
+         "exp" : "35"
       }, 
       "c6d76622-ec38-40f2-910f-0c1e0254076e" : { 
          "class" : "CharacterAddEffectNode", 
          "desc" : { 
-            "x" : "2564", 
-            "y" : "1954"
+            "x" : "2420", 
+            "y" : "1782"
          }, 
          "child" : [ 
             "adb7b1ff-6af1-4b82-aeaf-f05a79009a70"
@@ -3043,8 +3007,8 @@
       "adb7b1ff-6af1-4b82-aeaf-f05a79009a70" : { 
          "class" : "CharacterAddEffectNode", 
          "desc" : { 
-            "x" : "2317", 
-            "y" : "2052"
+            "x" : "2397", 
+            "y" : "1880"
          }, 
          "child" : [ 
             "3fd02cd2-1202-4810-85e3-9046fc72c9d9"

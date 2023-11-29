@@ -17,7 +17,13 @@ MonoBehaviour:
   _chance: -1
   _genderRestriction: 0
   _addiction: 0
-  _modifiers: []
+  _modifiers:
+  - _type: 31
+    _value: 50
+    _duration: 12
+    _durationMode: 1
+    _delay: 0
+    _delayMode: 0
   _applyers:
   - _type: 4
     _delay: 0
