@@ -22,15 +22,30 @@ MonoBehaviour:
   - _type: 11
     _delay: 0
     _delayMode: 0
-    _valueType: 3
-    _value: 0100000003000000
+    _valueType: 0
+    _value: 01000000
   - _type: 4
     _delay: 0
     _delayMode: 0
     _valueType: 0
-    _value: 9cffffff
+    _value: ceffffff
   - _type: 3
     _delay: 0
     _delayMode: 0
     _valueType: 0
-    _value: e2ffffff
+    _value: f1ffffff
+  - _type: 11
+    _delay: 40
+    _delayMode: 0
+    _valueType: 0
+    _value: 01000000
+  - _type: 4
+    _delay: 40
+    _delayMode: 0
+    _valueType: 0
+    _value: ceffffff
+  - _type: 3
+    _delay: 40
+    _delayMode: 0
+    _valueType: 0
+    _value: f1ffffff

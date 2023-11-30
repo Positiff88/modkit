@@ -19,18 +19,33 @@ MonoBehaviour:
   _addiction: 0
   _modifiers: []
   _applyers:
-  - _type: 11
-    _delay: 0
-    _delayMode: 0
-    _valueType: 3
-    _value: 0300000005000000
-  - _type: 4
-    _delay: 0
-    _delayMode: 0
-    _valueType: 0
-    _value: d4feffff
   - _type: 12
     _delay: 0
     _delayMode: 0
     _valueType: 0
     _value: 
+  - _type: 2
+    _delay: 0
+    _delayMode: 0
+    _valueType: 0
+    _value: 02000000
+  - _type: 11
+    _delay: 0
+    _delayMode: 0
+    _valueType: 0
+    _value: 02000000
+  - _type: 4
+    _delay: 0
+    _delayMode: 0
+    _valueType: 0
+    _value: 6affffff
+  - _type: 11
+    _delay: 50
+    _delayMode: 0
+    _valueType: 0
+    _value: 02000000
+  - _type: 4
+    _delay: 50
+    _delayMode: 0
+    _valueType: 0
+    _value: 6affffff

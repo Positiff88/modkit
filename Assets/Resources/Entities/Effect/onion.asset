@@ -35,9 +35,19 @@ MonoBehaviour:
     _delay: 0
     _delayMode: 0
     _valueType: 0
-    _value: 9cffffff
+    _value: ceffffff
   - _type: 4
     _delay: 0
     _delayMode: 0
     _valueType: 0
+    _value: e7ffffff
+  - _type: 3
+    _delay: 60
+    _delayMode: 0
+    _valueType: 0
     _value: ceffffff
+  - _type: 4
+    _delay: 60
+    _delayMode: 0
+    _valueType: 0
+    _value: e7ffffff
