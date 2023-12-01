@@ -19,18 +19,48 @@ MonoBehaviour:
   _addiction: 0
   _modifiers: []
   _applyers:
-  - _type: 11
-    _delay: 0
-    _delayMode: 0
-    _valueType: 3
-    _value: 0c0000001c000000
-  - _type: 4
-    _delay: 0
-    _delayMode: 0
-    _valueType: 0
-    _value: c0f9ffff
   - _type: 2
     _delay: 0
     _delayMode: 0
     _valueType: 0
     _value: 14000000
+  - _type: 11
+    _delay: 0
+    _delayMode: 0
+    _valueType: 0
+    _value: 08000000
+  - _type: 4
+    _delay: 0
+    _delayMode: 0
+    _valueType: 0
+    _value: 0cfeffff
+  - _type: 11
+    _delay: 1
+    _delayMode: 1
+    _valueType: 0
+    _value: 04000000
+  - _type: 4
+    _delay: 1
+    _delayMode: 1
+    _valueType: 0
+    _value: 0cfeffff
+  - _type: 11
+    _delay: 2
+    _delayMode: 1
+    _valueType: 0
+    _value: 04000000
+  - _type: 4
+    _delay: 2
+    _delayMode: 1
+    _valueType: 0
+    _value: 0cfeffff
+  - _type: 11
+    _delay: 3
+    _delayMode: 1
+    _valueType: 0
+    _value: 04000000
+  - _type: 4
+    _delay: 3
+    _delayMode: 1
+    _valueType: 0
+    _value: 0cfeffff

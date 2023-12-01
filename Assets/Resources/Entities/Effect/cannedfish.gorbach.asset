@@ -25,18 +25,48 @@ MonoBehaviour:
     _delay: 0
     _delayMode: 0
   _applyers:
-  - _type: 4
-    _delay: 0
-    _delayMode: 0
-    _valueType: 0
-    _value: 20f9ffff
-  - _type: 11
-    _delay: 0
-    _delayMode: 0
-    _valueType: 3
-    _value: 100000001c000000
   - _type: 2
     _delay: 0
     _delayMode: 0
     _valueType: 0
     _value: 04000000
+  - _type: 11
+    _delay: 0
+    _delayMode: 0
+    _valueType: 0
+    _value: 08000000
+  - _type: 4
+    _delay: 0
+    _delayMode: 0
+    _valueType: 0
+    _value: dafdffff
+  - _type: 11
+    _delay: 1
+    _delayMode: 1
+    _valueType: 0
+    _value: 06000000
+  - _type: 4
+    _delay: 1
+    _delayMode: 1
+    _valueType: 0
+    _value: dafdffff
+  - _type: 11
+    _delay: 2
+    _delayMode: 1
+    _valueType: 0
+    _value: 04000000
+  - _type: 4
+    _delay: 2
+    _delayMode: 1
+    _valueType: 0
+    _value: dafdffff
+  - _type: 11
+    _delay: 3
+    _delayMode: 1
+    _valueType: 0
+    _value: 04000000
+  - _type: 4
+    _delay: 3
+    _delayMode: 1
+    _valueType: 0
+    _value: dafdffff
