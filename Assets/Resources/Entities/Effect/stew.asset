@@ -23,7 +23,7 @@ MonoBehaviour:
     _delay: 0
     _delayMode: 0
     _valueType: 0
-    _value: 01000000
+    _value: 02000000
   - _type: 4
     _delay: 0
     _delayMode: 0
@@ -53,7 +53,7 @@ MonoBehaviour:
     _delay: 3
     _delayMode: 1
     _valueType: 0
-    _value: 02000000
+    _value: 01000000
   - _type: 4
     _delay: 3
     _delayMode: 1
