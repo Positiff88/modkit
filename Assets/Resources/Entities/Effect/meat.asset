@@ -19,7 +19,7 @@ MonoBehaviour:
   _addiction: 0
   _modifiers: []
   _applyers:
-  - _type: 2
+  - _type: 3
     _delay: 0
     _delayMode: 0
     _valueType: 0
