@@ -21,8 +21,8 @@ MonoBehaviour:
   Collectable: 1
   Modifiers: []
   _effects:
-  - path: entities/effect/ganja_ciggy
   - path: entities/effect/ganja_ciggy_side
+  - path: entities/effect/ganja_ciggy
   canUseInBattle: 0
   waste:
     path: 
