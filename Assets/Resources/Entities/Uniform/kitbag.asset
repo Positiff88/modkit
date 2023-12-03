@@ -16,12 +16,12 @@ MonoBehaviour:
     path: Entities/Uniform/Kitbag
   m_Localization: uniform.kitbag
   Takeable: 1
-  Cost: 850
+  Cost: 1120
   Weight: 650
   Collectable: 1
   Modifiers:
   - _type: 28
-    _value: 10000
+    _value: 12000
   UniformType: 2
   HideMask: 0
   ArmorDurability: 0
