@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 364586878, guid: ba80931603c2dbc40ab113c533efa2ed, type: 3}
-  m_Name: moonshine_side
+  m_Name: booze_side
   m_EditorClassIdentifier: 
   Icon:
     path: UI/EffectIcon/Alcoholic
-  _chance: 50
+  _chance: 30
   _genderRestriction: 0
   _addiction: 0
   _modifiers:
@@ -24,13 +24,7 @@ MonoBehaviour:
     _durationMode: 1
     _delay: 0
     _delayMode: 0
-  - _type: 1
-    _value: -1
-    _duration: 2
-    _durationMode: 1
-    _delay: 0
-    _delayMode: 0
-  - _type: 3
+  - _type: 6
     _value: 1
     _duration: 2
     _durationMode: 1
