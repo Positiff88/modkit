@@ -25,28 +25,23 @@ MonoBehaviour:
     _delay: 0
     _delayMode: 0
   _applyers:
+  - _type: 11
+    _delay: 0
+    _delayMode: 0
+    _valueType: 3
+    _value: 0300000005000000
   - _type: 4
     _delay: 0
     _delayMode: 0
     _valueType: 0
     _value: 9cffffff
-  - _type: 11
-    _delay: 1
-    _delayMode: 1
-    _valueType: 0
-    _value: 02000000
   - _type: 4
-    _delay: 1
-    _delayMode: 1
+    _delay: 55
+    _delayMode: 0
     _valueType: 0
     _value: 9cffffff
-  - _type: 11
-    _delay: 2
-    _delayMode: 1
-    _valueType: 0
-    _value: 02000000
   - _type: 4
-    _delay: 2
-    _delayMode: 1
+    _delay: 110
+    _delayMode: 0
     _valueType: 0
     _value: 9cffffff

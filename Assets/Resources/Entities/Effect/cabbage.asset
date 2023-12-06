@@ -23,22 +23,17 @@ MonoBehaviour:
     _delay: 0
     _delayMode: 0
     _valueType: 0
-    _value: 04000000
+    _value: 08000000
   - _type: 11
     _delay: 0
     _delayMode: 0
-    _valueType: 0
-    _value: 05000000
+    _valueType: 3
+    _value: 050000000f000000
   - _type: 4
     _delay: 0
     _delayMode: 0
     _valueType: 0
     _value: 70feffff
-  - _type: 11
-    _delay: 45
-    _delayMode: 0
-    _valueType: 0
-    _value: 05000000
   - _type: 4
     _delay: 45
     _delayMode: 0

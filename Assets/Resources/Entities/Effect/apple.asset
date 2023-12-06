@@ -19,11 +19,16 @@ MonoBehaviour:
   _addiction: 0
   _modifiers: []
   _applyers:
-  - _type: 11
+  - _type: 2
     _delay: 0
     _delayMode: 0
     _valueType: 0
     _value: 01000000
+  - _type: 11
+    _delay: 0
+    _delayMode: 0
+    _valueType: 3
+    _value: 0100000003000000
   - _type: 4
     _delay: 0
     _delayMode: 0
@@ -34,11 +39,6 @@ MonoBehaviour:
     _delayMode: 0
     _valueType: 0
     _value: f1ffffff
-  - _type: 11
-    _delay: 40
-    _delayMode: 0
-    _valueType: 0
-    _value: 01000000
   - _type: 4
     _delay: 40
     _delayMode: 0

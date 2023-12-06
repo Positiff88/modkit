@@ -28,22 +28,17 @@ MonoBehaviour:
     _delay: 0
     _delayMode: 0
     _valueType: 0
-    _value: 02000000
+    _value: 03000000
   - _type: 11
     _delay: 0
     _delayMode: 0
-    _valueType: 0
-    _value: 02000000
+    _valueType: 3
+    _value: 0300000006000000
   - _type: 4
     _delay: 0
     _delayMode: 0
     _valueType: 0
     _value: 6affffff
-  - _type: 11
-    _delay: 50
-    _delayMode: 0
-    _valueType: 0
-    _value: 02000000
   - _type: 4
     _delay: 50
     _delayMode: 0
