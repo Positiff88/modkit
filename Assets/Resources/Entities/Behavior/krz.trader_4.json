@@ -1,0 +1,304 @@
+{ 
+   "states" : { 
+      "c68be0c0-6100-483a-a229-5e1c55265a25" : { 
+         "class" : "DummyNode", 
+         "desc" : { 
+            "x" : "-100940", 
+            "y" : "-100814"
+         }, 
+         "child" : [ 
+            "c98363e5-aac1-473e-adf9-1f258878c971"
+         ]
+      }, 
+      "c98363e5-aac1-473e-adf9-1f258878c971" : { 
+         "class" : "CharacterInBattleNode", 
+         "desc" : { 
+            "x" : "-100947", 
+            "y" : "-100776"
+         }, 
+         "child" : [ 
+            "f56f0281-a882-46c8-83e9-855997ccfc7f", 
+            "51031207-f816-4e03-9654-f9ab22e84e11"
+         ]
+      }, 
+      "f56f0281-a882-46c8-83e9-855997ccfc7f" : { 
+         "class" : "DummyNode", 
+         "desc" : { 
+            "x" : "-100990", 
+            "y" : "-100652"
+         }, 
+         "child" : [ 
+         ]
+      }, 
+      "51031207-f816-4e03-9654-f9ab22e84e11" : { 
+         "class" : "DummyNode", 
+         "desc" : { 
+            "x" : "-100873", 
+            "y" : "-100653"
+         }, 
+         "child" : [ 
+            "453bb3ca-e518-4aaa-997c-1c627671cd4e", 
+            "f767a7f5-5a4d-4177-ab4b-61275cdaa276"
+         ]
+      }, 
+      "453bb3ca-e518-4aaa-997c-1c627671cd4e" : { 
+         "class" : "HasKeywordNode", 
+         "desc" : { 
+            "x" : "-100950", 
+            "y" : "-100573"
+         }, 
+         "child" : [ 
+            "39445507-85fd-477f-8f8a-e15244eebda9", 
+            "12c30f04-b1f3-4563-b2b2-79843581e273"
+         ], 
+         "key" : "GOODS_TRADER"
+      }, 
+      "39445507-85fd-477f-8f8a-e15244eebda9" : { 
+         "class" : "HasTimeDateComeNode", 
+         "desc" : { 
+            "x" : "-101076", 
+            "y" : "-100484"
+         }, 
+         "child" : [ 
+            "8dfb8860-9bcf-4df7-8bb6-25d1f44e3f06", 
+            "fd5b8057-d762-4eea-9007-0a9777fd8aaa"
+         ], 
+         "time" : "24", 
+         "mode" : "Hour", 
+         "offsetValue" : "GOODS_TRADER"
+      }, 
+      "8dfb8860-9bcf-4df7-8bb6-25d1f44e3f06" : { 
+         "class" : "DummyNode", 
+         "desc" : { 
+            "x" : "-101104", 
+            "y" : "-100330"
+         }, 
+         "child" : [ 
+            "a30ac079-b30b-4925-82de-799338b70d31"
+         ]
+      }, 
+      "a30ac079-b30b-4925-82de-799338b70d31" : { 
+         "class" : "GoodsAndMoneyNode", 
+         "desc" : { 
+            "x" : "-101083", 
+            "y" : "-100240"
+         }, 
+         "child" : [ 
+            "fdb54fdf-c0d4-442c-9d63-3aaac3ec411f"
+         ], 
+         "maxMoney" : "220", 
+         "maxGoodsToMoney" : "40", 
+         "costPercent" : "100", 
+         "wantToSellPercent" : "20"
+      }, 
+      "fdb54fdf-c0d4-442c-9d63-3aaac3ec411f" : { 
+         "class" : "InventorySetNode", 
+         "desc" : { 
+            "x" : "-101029", 
+            "y" : "-100156"
+         }, 
+         "child" : [ 
+            "fb080ae5-6214-4440-a473-f3af9ba5a9d9"
+         ], 
+         "inventory" : [ 
+            { 
+               "class" : "Consumable", 
+               "count" : "11", 
+               "proto" : "Apple"
+            }, 
+            { 
+               "class" : "Item", 
+               "count" : "9", 
+               "proto" : "Corn"
+            }, 
+            { 
+               "class" : "Item", 
+               "count" : "16", 
+               "proto" : "Money"
+            }
+         ], 
+         "inventoryObject" : "", 
+         "random" : "true"
+      }, 
+      "fb080ae5-6214-4440-a473-f3af9ba5a9d9" : { 
+         "class" : "AddKeyValueNode", 
+         "desc" : { 
+            "x" : "-100956", 
+            "y" : "-100077"
+         }, 
+         "child" : [ 
+         ], 
+         "key" : "GOODS_TRADER", 
+         "value" : "$TIME$"
+      }, 
+      "fd5b8057-d762-4eea-9007-0a9777fd8aaa" : { 
+         "class" : "DummyNode", 
+         "desc" : { 
+            "x" : "-100986", 
+            "y" : "-100331"
+         }, 
+         "child" : [ 
+         ]
+      }, 
+      "12c30f04-b1f3-4563-b2b2-79843581e273" : { 
+         "class" : "DummyNode", 
+         "desc" : { 
+            "x" : "-100872", 
+            "y" : "-100331"
+         }, 
+         "child" : [ 
+            "9055364b-2d62-4d22-a02b-7d986c08f556"
+         ]
+      }, 
+      "9055364b-2d62-4d22-a02b-7d986c08f556" : { 
+         "class" : "InventorySetNode", 
+         "desc" : { 
+            "x" : "-100872", 
+            "y" : "-100212"
+         }, 
+         "child" : [ 
+            "fb080ae5-6214-4440-a473-f3af9ba5a9d9"
+         ], 
+         "inventory" : [ 
+            { 
+               "class" : "Consumable", 
+               "count" : "11", 
+               "proto" : "Apple"
+            }, 
+            { 
+               "class" : "Item", 
+               "count" : "9", 
+               "proto" : "Corn"
+            }, 
+            { 
+               "class" : "Item", 
+               "count" : "16", 
+               "proto" : "Money"
+            }
+         ], 
+         "inventoryObject" : ""
+      }, 
+      "f767a7f5-5a4d-4177-ab4b-61275cdaa276" : { 
+         "class" : "CharacterInBattleNode", 
+         "desc" : { 
+            "x" : "-100514", 
+            "y" : "-100612"
+         }, 
+         "child" : [ 
+            "d8389080-8f07-4fbb-aacd-97ceccdb361d", 
+            "ae0a76e4-424a-4bd9-8e08-59d4eaf3abd3"
+         ]
+      }, 
+      "d8389080-8f07-4fbb-aacd-97ceccdb361d" : { 
+         "class" : "DummyNode", 
+         "desc" : { 
+            "x" : "-100614", 
+            "y" : "-100479"
+         }, 
+         "child" : [ 
+         ]
+      }, 
+      "ae0a76e4-424a-4bd9-8e08-59d4eaf3abd3" : { 
+         "class" : "WaitRandomNode", 
+         "desc" : { 
+            "x" : "-100369", 
+            "y" : "-100524"
+         }, 
+         "child" : [ 
+            "e1605605-0a68-4516-a55d-9026019b89f5"
+         ], 
+         "waitTimeMin" : "7", 
+         "waitTimeMax" : "10"
+      }, 
+      "e1605605-0a68-4516-a55d-9026019b89f5" : { 
+         "class" : "RandomNode", 
+         "desc" : { 
+            "x" : "-100373", 
+            "y" : "-100416"
+         }, 
+         "child" : [ 
+            "ea318270-e75a-4e86-b16a-d6d45971badb", 
+            "b2c37985-ba2c-4943-9806-3a6ac383f6ab", 
+            "56971b5a-2aef-4b26-a18d-a2ba38098188", 
+            "46346083-8482-48de-bcbf-3b889e2dd305", 
+            "a7f8d64d-d7f1-44da-b008-ef1aa554f076"
+         ]
+      }, 
+      "ea318270-e75a-4e86-b16a-d6d45971badb" : { 
+         "class" : "WhoopNode", 
+         "desc" : { 
+            "x" : "-100682", 
+            "y" : "-100336"
+         }, 
+         "child" : [ 
+            "9b453271-f4e1-477c-aebb-269243d7874d"
+         ], 
+         "text" : "#Krz.Trader_4.ea318270-e75a-4e86-b16a-d6d45971badb", 
+         "waitEnd" : "true", 
+         "onlyActiveAndAlive" : "true"
+      }, 
+      "9b453271-f4e1-477c-aebb-269243d7874d" : { 
+         "class" : "DummyNode", 
+         "desc" : { 
+            "x" : "-100660", 
+            "y" : "-99992"
+         }, 
+         "child" : [ 
+            "f767a7f5-5a4d-4177-ab4b-61275cdaa276"
+         ]
+      }, 
+      "b2c37985-ba2c-4943-9806-3a6ac383f6ab" : { 
+         "class" : "WhoopNode", 
+         "desc" : { 
+            "x" : "-100527", 
+            "y" : "-100280"
+         }, 
+         "child" : [ 
+            "9b453271-f4e1-477c-aebb-269243d7874d"
+         ], 
+         "text" : "#Krz.Trader_4.b2c37985-ba2c-4943-9806-3a6ac383f6ab", 
+         "waitEnd" : "true", 
+         "onlyActiveAndAlive" : "true"
+      }, 
+      "56971b5a-2aef-4b26-a18d-a2ba38098188" : { 
+         "class" : "WhoopNode", 
+         "desc" : { 
+            "x" : "-100402", 
+            "y" : "-100228"
+         }, 
+         "child" : [ 
+            "9b453271-f4e1-477c-aebb-269243d7874d"
+         ], 
+         "text" : "#Krz.Trader_4.56971b5a-2aef-4b26-a18d-a2ba38098188", 
+         "waitEnd" : "true", 
+         "onlyActiveAndAlive" : "true"
+      }, 
+      "46346083-8482-48de-bcbf-3b889e2dd305" : { 
+         "class" : "WhoopNode", 
+         "desc" : { 
+            "x" : "-100305", 
+            "y" : "-100287"
+         }, 
+         "child" : [ 
+            "9b453271-f4e1-477c-aebb-269243d7874d"
+         ], 
+         "text" : "#Krz.Trader_4.46346083-8482-48de-bcbf-3b889e2dd305", 
+         "waitEnd" : "true", 
+         "onlyActiveAndAlive" : "true"
+      }, 
+      "a7f8d64d-d7f1-44da-b008-ef1aa554f076" : { 
+         "class" : "WhoopNode", 
+         "desc" : { 
+            "x" : "-100150", 
+            "y" : "-100231"
+         }, 
+         "child" : [ 
+            "9b453271-f4e1-477c-aebb-269243d7874d"
+         ], 
+         "text" : "#Krz.Trader_4.a7f8d64d-d7f1-44da-b008-ef1aa554f076", 
+         "waitEnd" : "true", 
+         "onlyActiveAndAlive" : "true"
+      }
+   }, 
+   "entry" : "c68be0c0-6100-483a-a229-5e1c55265a25"
+}
